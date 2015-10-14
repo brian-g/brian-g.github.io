@@ -1,0 +1,223 @@
+body 
+{ 
+	color: white;
+	background-color: black;
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-family: 'Lucida Grande', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Lucida Grande', 'Arial', sans-serif;
+	font-size:8px;
+}
+
+div
+{	
+	border-collapse:collapse;
+	padding:0px;
+	margin:0;
+	text-align:left;
+}
+
+a 
+{
+	color: black;
+}
+
+a:visited
+{
+	color: purple;
+	text-decoration:none;
+}
+
+a:link  
+{
+	color: blue;
+	text-decoration:none 
+}
+
+a:hover 
+{
+	color: blue;
+	text-decoration: underline 
+}
+
+a:active
+{
+
+}
+
+td
+{
+	vertical-align:top;
+}
+
+p, li
+{
+	font-size:9pt;
+}
+
+h1  
+{
+	color:black;
+	font-size: 14pt;
+	font-weight: bold;
+	font-stretch: extra-expanded;
+	margin: 0.67em 0
+}
+
+h2  
+{
+	color:black;
+	font-size: 9pt;
+	font-weight: bold;
+	margin: 0;
+}
+
+img
+{
+	border:0;
+}
+
+#menu a  {
+	color: silver;
+}
+
+#menu a:link, #menu a:visited  
+{
+	color: white;
+	text-decoration:none 
+}
+
+#menu a:hover 
+{
+	color: yellow;
+	text-decoration: underline 
+}
+
+#menu
+{
+	position:relative;
+	float:right;
+	color:silver;
+	margin:5pt 10pt;
+}
+
+#menu ul li
+{
+	display:inline;
+	margin-left:5px;
+	font-size:8pt;
+}
+
+#text-title
+{
+	display:none;
+	color:black;
+	background-color:transparent;
+	position:absolute;
+	z-index:-1;
+	top:0;
+	left:0;
+}
+
+#wrapper
+{
+	text-align:left;
+	margin:0 auto;
+	width:720px;
+	padding:0;
+}
+
+#top
+{
+	position:fixed;
+	top:0;
+	width:749px;
+	height:184px;
+	background-image:url('images/HT_Top.png');
+	background-repeat:no-repeat;
+	z-index:100;
+}
+
+#middle
+{
+	width:749px;
+	background-image:url('images/HT_Middle.png'); 
+	background-repeat:repeat-y;
+	padding:1px;
+}
+
+
+#content
+{
+	color:black;
+	background-color:transparent;
+	margin: 180px 50px 80px 50px;
+	padding: 0;
+	z-index: 5;
+}
+
+
+#bottom
+{
+	position:fixed;
+	bottom:-5px;
+	width:749px; 
+	height:75px; 
+	background-image:url('images/HT_Bottom.png');
+	background-repeat:no-repeat;
+	padding:1px;
+	z-index:100;
+}
+
+.date
+{
+	font-size:8pt;
+	color:#AAA;
+	position:absolute;
+	top:155px;
+	right:30px;
+}
+
+.copyright
+{
+	position:fixed;
+	bottom:38px;
+	left:0px;
+
+	font-size:8pt;
+	color:#aaa;
+	clear:right;
+	width:100%;
+	text-align:center;
+}
+
+.part
+{
+	margin:10px 0;
+
+}
+
+.part h2
+{
+
+	font-weight:bold;
+	white-space:nowrap;
+	text-align:center;
+	font-size:10pt;
+	padding-top:8px;
+	padding-bottom:10px;
+	text-transform: uppercase;
+}
+
+.part ul
+{
+	display:inline;
+	text-align:center;
+	margin-bottom:15px;
+}
+
+.part > ul > li
+{
+	margin:0;
+	list-style-type:none;
+}

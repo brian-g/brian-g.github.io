@@ -1,0 +1,305 @@
+body 
+{ 
+	color: white;
+	background:black url('images/MacLinks_Background.jpg') no-repeat fixed top center; 
+	margin:0;
+	padding:0;
+	font-family:'Apple LiGothic', 'Segoe UI', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Lucida Grande', 'Arial', sans-serif;
+	font-size:11pt;
+}
+
+p, h2, div
+{	
+	border-collapse:collapse;
+	padding:0;
+	margin:0;
+}
+
+form
+{
+	margin-top:0;
+	margin-bottom:0;
+}
+
+a 
+{
+	color: white;
+}
+
+a:visited
+{
+	color:silver;
+	text-decoration:none;
+}
+
+a:link  
+{
+	color: white;
+	text-decoration:none 
+}
+
+a:hover 
+{
+	color: white;
+	text-decoration: underline 
+}
+
+a:active
+{
+
+}
+
+p, li
+{
+	font-size:11pt;
+}
+
+p
+{
+	margin-top:15px;
+}
+
+h1  
+{
+	display:none;	
+}
+
+h2  
+{
+	color:#EEAD0E;
+	font-size: 11pt;
+	font-weight: bold;
+	margin: 0;
+	padding-top:10px;
+	font-family: Didot, Garamond, Georgia, 'Times New Roman', Times, Serif;
+}
+
+img
+{
+	border:0;
+}
+
+#menu
+{
+	float:right;
+	clear:right;
+	color:silver;
+	margin-right:50px;
+}
+
+#google-search
+{
+	margin-top:135px;
+	margin-right:50px;
+	float:right;
+	clear:right;
+}
+
+#search-input, #search-button
+{
+
+}
+
+.menu-list
+{
+	margin:0;
+	padding:0;
+}
+
+#menu a  {
+	color: silver;
+}
+
+#menu a:link, #menu a:visited  
+{
+	color: white;
+	text-decoration:none 
+}
+
+#menu a:hover 
+{
+	color: yellow;
+	text-decoration: underline 
+}
+
+#menu ul li
+{
+	display:inline;
+	margin-left:5px;
+	font-size:8pt;
+	list-style-type:circle;
+}
+
+#text-title
+{
+	display:none;
+	color:black;
+	background-color:transparent;
+	position:absolute;
+	z-index:-1;
+	top:0;
+	left:0;
+}
+
+#wrapper
+{
+	text-align:left;
+	margin:0 auto;
+	width:750px;
+}
+
+#top
+{
+	height:163px;
+	background:url('images/TopBar.png') no-repeat center;
+}
+
+
+#middle
+{
+	margin:0 auto; 
+	margin-top:20px; 
+	width:625px;
+}
+
+
+#content
+{
+	color:white;
+	background-color:transparent;
+	margin:0;
+	padding:0;
+	width:460px;	
+	margin-left:165px;
+}
+
+#content a
+{
+	color:#EEAD0E;
+}
+
+#content p img
+{
+	width:48px;
+	float:left;
+}
+
+#bottom
+{
+	width:100%; 
+	background:url('images/BottomFade.png') repeat-x;
+	position:fixed;
+	height:32px;
+	bottom:0px;
+	left:0px;
+}
+
+#sig
+{
+	z-index:100;
+	display:none;
+}
+
+#sig img
+{
+	width:180px;
+}
+
+.date
+{
+	font-size:8pt;
+	color:#AAA;
+	position:relative;
+	top:150px;
+	left:20px;
+	margin-left:50px;
+}
+
+
+.copyright
+{
+	font-size:8pt;
+	color:#aaa;
+	width:100%;
+	text-align:center;
+	position:fixed;
+	bottom:0;
+}
+
+#content-small
+{
+	color:white;
+	background-color:transparent;
+	margin:0;
+	padding:0;
+	width:158px;
+	float:left;
+}
+
+.content-small-top
+{
+	background:url('images/Narrow_Top.png') no-repeat; 
+	height:42px;
+}
+.content-small-bottom
+{
+	background:url('images/Narrow_Bottom.png') no-repeat;  
+	height:10px;
+}
+
+.content-small-data
+{
+	background:url('images/Narrow_Middle.png') repeat-y; 
+}
+
+.content-top
+{
+	background:url('images/Wide_Top.png') no-repeat; 
+	height:41px;
+}
+
+.content-data
+{
+	background:url('images/Wide_Middle.png') repeat-y;
+	width:460px;
+}
+
+.content-bottom
+{
+	background:url('images/Wide_Bottom.png') no-repeat; 
+	height:10px;
+	width:460px;
+}
+
+
+.part
+{
+	position:relative;
+	top:-42px; 
+	padding:0 10px;
+}
+
+.part h2
+{
+
+	font-weight:bold;
+	white-space:nowrap;
+	text-align:center;
+/*	padding-top:10px;
+	padding-bottom:5px; */
+}
+
+.part ul
+{
+	text-align:center;
+	margin-bottom:15px;
+	padding:0;
+	margin:0;
+}
+
+.part > ul > li
+{
+	list-style-type:none; 
+	font-size:90%;
+
+}

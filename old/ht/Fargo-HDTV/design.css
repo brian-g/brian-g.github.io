@@ -1,0 +1,218 @@
+/* @override http://brian.glaeske.name/ht/Fargo-HDTV/design.css */
+
+body 
+{ 
+	color: black; 
+	background-color: #039;
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-family:Verdana, Tahoma, sans-serif;
+	font-size:9pt;
+}
+img
+{
+	border:0;
+}
+
+div
+{	
+	padding:0;
+	margin:0;
+}
+
+a 
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:link  
+{
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color: blue;
+	border-bottom: 1px dotted blue;
+	text-decoration: none;
+}
+
+a:active
+{
+	text-decoration: none;
+}
+
+p, li
+{
+	font-size:9pt;
+}
+
+td p, td 
+{
+	font-size:9pt;
+}
+
+td
+{
+	border:1px solid #d1d1d1;
+	padding:5px;
+	margin:0;
+	vertical-align:top;
+}
+
+h1  
+{
+	font-size: 14pt;
+	font-weight: bold;
+	font-stretch: extra-expanded;
+	margin: 0.67em 0
+}
+
+h2,h3
+{
+	font-size: 11pt;
+	font-weight: bold;
+	font-stretch: extra-expanded;
+	margin: 0.83em 0 
+}
+
+h3
+{
+	font-size:10pt;
+	color:#666666;
+	margin: 0.2em 0 0 0;
+}
+
+.quote
+{
+	font-style: italic;
+	padding:0 5em;
+	font-size:1.1em;
+}
+
+#wrapper
+{
+	text-align:left;
+	margin:0 auto;
+	width:720px;
+	padding:0;
+}
+
+#menu 
+{
+	font-size: 8pt;
+}
+
+#menu a  {
+	color: white;
+}
+
+#menu a:link, #menu a:visited  
+{
+	color: white;
+	text-decoration:none 
+}
+
+#menu a:hover 
+{
+	color: yellow;
+	text-decoration: underline 
+}
+
+#menu
+{
+	position:relative;
+	float:right;
+	top:42px;
+	right:15px;
+	color:white;
+}
+
+table
+{
+	border:1px solid #aeafaf; 
+	background-color:#fafafa; 
+	width:99%;
+	border-collapse: collapse;
+	
+}
+
+table thead tr
+{	
+	color:white;
+	background-color:#f98119;
+}
+
+#text-title
+{
+	color:#039;
+	background-color:#039;
+	position:absolute;
+	z-index:-1;
+	top:100px;
+	left:100px;
+}
+
+#top
+{
+	height:156px; 
+	width:720px; 
+	background-image:url('images/HDTVTop.gif');
+	background-repeat:no-repeat;
+}
+
+#middle
+{
+	width:720px;
+	background-image:url('images/HDTVMiddle.gif'); 
+	background-repeat:repeat-y;
+	padding:1px;
+}
+
+#content
+{
+	margin-left:50px;
+	margin-right:50px;
+	width:620px;
+}
+
+#bottom
+{
+	width:720px; 
+	height:50px; 
+	background-image:url('images/HDTVBottom.gif');
+	background-repeat:no-repeat;
+	padding:1px;
+}
+
+.blogdate
+{
+	font-size:8pt;
+	position:relative;
+	float:right;
+	top:90px;
+	right:35px;
+	clear:right;
+	color:#333;
+}
+
+
+.copyright
+{
+	font-size:8pt;
+	padding-top:8px;
+	color:#444;
+	text-align:center;
+}
+
+#sig 
+{
+	display:none;
+	position:relative;
+	top:0;
+	right:0px;
+	width:70px;
+}

@@ -1,0 +1,75 @@
+/* Media break */
+@smallDeviceWidth:667px;
+@mediumDeviceWidth:768px;
+
+/* Standard grid units */
+@grid:60px;
+@printGrid:.5in;
+@margin:@grid;
+@printMargin:@printGrid;
+@body-left:(3 * @grid);
+@printBody-left:@printGrid;
+@gutter:10px;
+@printGutter:.25in;
+@padding:10px;
+@printPadding:.25in;
+@deviceMargin:10px;
+
+/* Standard colors */
+
+
+@accent0:#0221a2;
+@accent1:#aa03af;
+@accent2:#4c09b9;
+@accent3:#0992b9;
+@accent4:#09af71;
+
+@accent0:#3dc5fa;
+
+@link:black;
+@linkHover:darken(@accent0, 20%);
+@linkActive:@accent0;
+
+@ltGray:#f0f0f0;
+@gray:#aaa;
+@dkGray:#3f3a34;
+@textGray:#666;
+
+/* Fonts */
+
+
+.fonts() {
+	font-family:'Didot W01 Roman';
+	font-family:'Frutiger Neue W01 UltLt';
+	font-family:'FrutigerNeueW01-UltLtIt';
+	font-family:'Frutiger Neue W01 Thin';
+	font-family:'FrutigerNeueW01-ThinIt';
+	font-family:'Frutiger Neue W01 Light';
+	font-family:'FrutigerNeueW01-LightIt';
+	font-family:'Frutiger Neue W01 Book';
+	font-family:'FrutigerNeueW01-BookIt';
+	font-family:'FrutigerNeueW01-Regular';
+	font-family:'Frutiger Neue W01 It';
+	font-family:'Frutiger Neue W01 Md';
+	font-family:'Frutiger Neue W01 Md It';
+	font-family:'Frutiger Neue W01 Bd';
+	font-family:'Frutiger Neue W01 Bd It';
+	font-family:'Frutiger Neue W01 Heavy';
+	font-family:'FrutigerNeueW01-HeavyIt';
+	font-family:'Frutiger Neue W01 Blk';
+	font-family:'FrutigerNeueW01-BlkIt';
+	font-family:'FrutigerNeueW01-XtraBlk 673207';
+	font-family:'FrutigerNeueW01-XtraBlk 673210';
+	font-family:'HelveticaNeueW02-Thin';
+}
+
+@headingFontFamily:'Didot W01 Roman', 'Times New Roman';
+@headingFontSize:56px;
+@printHeadingFontSize:48px;
+
+@bodyFontFamily:'FrutigerNeueW01-Regular', 'Helvetica', 'sans-serif';
+@bodyFontSize:(@grid / 4);
+@printBodyFontSize:12px;
+
+@emphasisFontFamily:'Frutiger Neue W01 Bd', 'Helvetica', 'sans-serif';
+@smallFontSize:85%;

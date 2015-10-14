@@ -1,0 +1,66 @@
+@import "css3animation.less";
+@import "css3transform.less";
+
+@animationDefaultTime:500ms;
+
+.animated {
+	.animation-fill-mode(both);
+	.transform(translate3d(0,0,0));
+	.perspective(1000);
+}
+
+@-webkit-keyframes fadeIn { .fadeIn-keyframes(); }
+@-moz-keyframes fadeIn { .fadeIn-keyframes(); }
+@keyframes fadeIn { .fadeIn-keyframes(); }
+
+.fadeIn-keyframes() {
+	0% {
+		opacity:0;
+	}
+	100% {
+		opacity:1;
+	}
+}
+
+.fadeIn {
+	.animation-name(fadeIn);
+	.animation-duration(@animationDefaultTime);
+}
+
+@-webkit-keyframes fadeOut { .fadeOut-keyframes(); }
+@-moz-keyframes fadeOut { .fadeOut-keyframes(); }
+@keyframes fadeOut { .fadeOut-keyframes(); }
+
+.fadeOut-keyframes() {
+	from {
+		opacity:1;
+	}
+	to {
+		opacity:0;
+	}
+}
+
+.fadeOut {
+	.animation-name(fadeOut);
+	.animation-duration(@animationDefaultTime);
+}
+
+
+@-webkit-keyframes slideInT { .slideInT-keyframes(); }
+@-moz-keyframes slideInT { .slideInT-keyframes(); }
+@keyframes slideInT { .slideInT-keyframes(); }
+
+.slideInT-keyframes() {
+	from {
+		.transform(translateY(-2000px));
+	}
+	to { 
+		.transform(translateY(0px));
+	}
+}
+
+.slideInT {
+	.animation-name(slideInT);
+	.animation-duration(@animationDefaultTime);
+}
+

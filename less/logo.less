@@ -1,0 +1,43 @@
+.logo {
+	font-family: @headingFontFamily;
+	font-size: @headingFontSize;
+	margin-left:(@body-left - @margin);
+	color:black;
+	position:relative;
+
+	@media print {
+		font-size:@printHeadingFontSize;
+		margin-left:0;
+	}
+	
+	@media screen and (max-width: @smallDeviceWidth) {
+		margin-left:@deviceMargin;
+	}
+	
+	> .n { 
+		text-transform:lowercase;
+
+		> .given-name {
+
+		}
+		
+		> .family-name {
+			position:absolute;
+			left:-1px;
+			top:40px;
+
+			
+			&:before {
+				content:'@';
+				font-size:60%;
+				color:@gray;
+			}
+			
+			&:after {
+				content:'.name';
+				font-size:55%;
+				color:@gray;
+			}
+		}
+	}
+}
