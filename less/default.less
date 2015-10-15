@@ -67,6 +67,7 @@ h3 {
 
 
 h4 { 
+	font-family: @bodyFontFamily;
 	font-size:( .2 * @headingFontSize );
 }
 
@@ -337,14 +338,14 @@ body {
 						max-width: 50%;
 						max-height: 4in;
 						display: inline-block;
-					}
+					}					
 				}
 
 				&.thumbnail {
 					@media print {
 						display: none;
 					}
-				}								
+				}
 			}
 			
 			> figcaption {
@@ -521,6 +522,14 @@ body {
 		background-color:fade(white,90%);
 		color:black;
 		
+		@media screen and (max-width:@smallDeviceWidth) {
+			margin: 0;
+			margin-top: 30px;
+			padding: @deviceMargin;
+			width: -webkit-calc(100% ~"-" (2 * @deviceMargin));
+			width: calc(100% ~"-" (2 * @deviceMargin));
+		}
+		
 		> img.thumbnail {
 			display: none;
 		}
@@ -544,12 +553,14 @@ body {
 			
 			@media (max-aspect-ratio:6/5) {
 				display: block;
-				width:-webkit-calc(100% - (3 * @gutter));
-				width: calc(100% - (3 * @gutter));
+				width:-webkit-calc(100% - (@deviceMargin));
+				width: calc(100% - (@deviceMargin));
+
 				margin-left: @gutter;
-				margin-right: @gutter;;
+				margin-right: @gutter;
 			}
-						
+
+
 			> h4 {
 				font-size:24px;
 				letter-spacing:-1px;
@@ -562,6 +573,11 @@ body {
 		position:absolute;
 		top:(3 * @gutter);
 		right:@margin;
+		
+		@media screen and (max-width:@smallDeviceWidth) {
+			top: 0;
+			right: 0;
+		}
 	}
 	
 	button {
