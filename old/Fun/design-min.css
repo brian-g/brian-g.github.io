@@ -1,0 +1,116 @@
+body {
+  color: white;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Times', 'Times New Roman', serif;
+  font-size: 12pt; }
+
+div {
+  border-collapse: collapse;
+  padding: 0px;
+  margin: 0;
+  text-align: left; }
+
+a {
+  color: white; }
+
+a:visited {
+  color: yellow;
+  text-decoration: none; }
+
+a:link {
+  color: yellow;
+  text-decoration: none; }
+
+a:hover {
+  color: yellow;
+  text-decoration: underline; }
+
+td {
+  vertical-align: top; }
+
+h1 {
+  font-size: 14pt;
+  font-weight: bold;
+  font-stretch: extra-expanded;
+  font-family: 'Lucida Grande', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial', sans-serif; }
+
+h2 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin: 0;
+  font-family: 'Lucida Grande', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial', sans-serif; }
+
+h3 {
+  font-size: 12pt;
+  font-weight: bold;
+  margin: 0;
+  font-family: 'Lucida Grande', 'Helvetica Neue', 'HelveticaNeue', 'Helvetica', 'Arial', sans-serif; }
+
+img {
+  border: 0; }
+
+#menu a {
+  color: silver; }
+
+#menu a:link, #menu a:visited {
+  color: silver;
+  text-decoration: none; }
+
+#menu a:hover {
+  color: yellow;
+  text-decoration: underline; }
+
+#menu {
+  position: relative;
+  float: right;
+  color: silver;
+  bottom: 0px;
+  border: 1px solid red; }
+
+#menu ul li {
+  display: inline;
+  margin-left: 5px;
+  font-size: 8pt; }
+
+#text-title {
+  display: none;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0; }
+
+#wrapper {
+  text-align: left;
+  margin: 0 auto;
+  width: 620px; }
+
+#top {
+  background-image: url("images/Fun-Top.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  width: 680px;
+  height: 125px; }
+
+#content {
+  padding: 0 50px; }
+
+#popup {
+  position: fixed;
+  top: 0;
+  left: 0; }
+
+#popup img {
+  width: 700px; }
+
+.copyright {
+  position: fixed;
+  bottom: 38px;
+  left: 0px;
+  font-size: 8pt;
+  color: #aaa;
+  clear: right;
+  width: 100%;
+  text-align: center; }
