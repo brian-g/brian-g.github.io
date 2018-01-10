@@ -1,0 +1,39 @@
+@import url("../Common/site.css");
+@media screen {
+  HR {
+    color: #cccccc;
+    background-color: transparent;
+    border-style: dotted; }
+  a {
+    text-decoration: none; }
+  a:link {
+    background-color: transparent; }
+  a:visited {
+    background-color: transparent; }
+  a:active {
+    background-color: transparent; }
+  a:hover {
+    text-decoration: underline;
+    background-color: transparent; } }
+
+@media all {
+  td {
+    vertical-align: top; }
+  h1 {
+    font-size: 14pt;
+    font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: bold; }
+  h2 {
+    font-size: 10pt;
+    font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: bold;
+    margin-bottom: 2px; }
+  h3 {
+    font-size: 8pt;
+    font-family: "Trebuchet MS", Geneva, Arial, Helvetica, SunSans-Regular, sans-serif;
+    font-weight: bold;
+    margin-bottom: 1px; }
+  UL {
+    margin-top: 5px; }
+  body, table {
+    font-family: Verdana, Arial, Helvetica, sans-serif; } }
