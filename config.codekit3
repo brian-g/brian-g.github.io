@@ -7,7 +7,7 @@
 		"uuidString": "E981695E-8B43-4D63-9362-82E1EB394919"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26330",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -37,6 +37,16 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/css\/default.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/css\/default-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/favicon.ico": {
 		"cB": 0,
@@ -1420,6 +1430,72 @@
 		"oAP": "\/Portfolio\/copyImages.sh",
 		"oF": 0
 		},
+	"\/Portfolio\/farmqa-controller.png": {
+		"ft": 32768,
+		"iS": 5516046,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-controller.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-controller_tn.png": {
+		"ft": 32768,
+		"iS": 357470,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-controller_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-home.png": {
+		"ft": 32768,
+		"iS": 4290263,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-home.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-home_tn.png": {
+		"ft": 32768,
+		"iS": 368648,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-home_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting.png": {
+		"ft": 32768,
+		"iS": 166837,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting_tn.png": {
+		"ft": 32768,
+		"iS": 63300,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/Portfolio\/FixImages.workflow\/Contents\/document.wflow": {
 		"cB": 0,
 		"ft": 8192,
@@ -1723,6 +1799,72 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/Portfolio\/Talent1.png": {
+		"ft": 32768,
+		"iS": 1757165,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent1.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/Talent1_tn.png": {
+		"ft": 32768,
+		"iS": 171080,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent1_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/Talent2.png": {
+		"ft": 32768,
+		"iS": 2174960,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent2.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/Talent2_tn.png": {
+		"ft": 32768,
+		"iS": 134352,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent2_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/Talent3.png": {
+		"ft": 32768,
+		"iS": 1849648,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/Talent3_tn.png": {
+		"ft": 32768,
+		"iS": 120611,
+		"oA": 0,
+		"oAP": "\/Portfolio\/Talent3_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/redirect.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -1754,7 +1896,7 @@
 	"displayValue": "brian.glaeske.name",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-archer",
-	"lastBuiltDate": 537295923
+	"lastBuiltDate": 542157952
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1762,6 +1904,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -2325,6 +2468,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
