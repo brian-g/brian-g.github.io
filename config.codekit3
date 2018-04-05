@@ -30,6 +30,13 @@
 		"oAP": "\/assets.http:--brian.glaeske.name-.plist",
 		"oF": 0
 		},
+	"\/build\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/codekit-config.json": {
 		"ft": 524288,
 		"oA": 1,
