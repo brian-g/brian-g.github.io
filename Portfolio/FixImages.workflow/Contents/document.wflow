@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>381</string>
+	<string>444.7</string>
 	<key>AMApplicationVersion</key>
-	<string>2.4</string>
+	<string>2.8</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -61,7 +61,8 @@
 					<key>COMMAND_STRING</key>
 					<string>#!/bin/sh
 
-cd /Website/brian.glaeske.name/Portfolio
+cd ~brian/Projects/brian-g.github.io/Portfolio 
+
 
 thumb="_tn.png";
 
@@ -187,7 +188,7 @@ done
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>386.000000:680.000000</string>
+				<string>309.000000:185.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -338,7 +339,7 @@ done
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>386.000000:497.000000</string>
+				<string>309.000000:290.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Scale Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -348,7 +349,7 @@ done
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>EF765055-F62D-4A3C-A191-2B79CF7B43D9</key>
+		<key>ED1C0710-034C-46F2-B0F5-67B9C64EFCFB</key>
 		<dict>
 			<key>from</key>
 			<string>14BF050B-CE0B-46BB-B217-E93C2EB4318D - 14BF050B-CE0B-46BB-B217-E93C2EB4318D</string>
