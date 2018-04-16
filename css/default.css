@@ -522,6 +522,10 @@ body nav li {
     margin-top: -10px;
   }
 }
+.portfolio-item {
+  display: block;
+  clear: both;
+}
 #portfolio .description {
   clear: both;
 }
@@ -645,7 +649,7 @@ body nav li {
   font-family: 'fontello';
   background-color: #0992b9;
   border: 0;
-  color: #ffffff;
+  color: #000000;
   -webkit-transition: all 200ms ease-out 0;
   transition: all 200ms ease-out 0;
 }

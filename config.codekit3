@@ -7,7 +7,7 @@
 		"uuidString": "E981695E-8B43-4D63-9362-82E1EB394919"
 		}
 	],
-"creatorBuild": "26330",
+"creatorBuild": "26680",
 "files": {
 	"\/.gitignore": {
 		"cB": 0,
@@ -139,6 +139,7 @@
 	"\/img\/iStock_000012604355Illustra\/wave.jpg": {
 		"ft": 16384,
 		"iS": 9660720,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/iStock_000012604355Illustra\/wave.jpg",
 		"oF": 0,
@@ -149,6 +150,7 @@
 	"\/img\/wave-xxx.jpg": {
 		"ft": 16384,
 		"iS": 1033120,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/wave-xxx.jpg",
 		"oF": 0,
@@ -159,6 +161,7 @@
 	"\/img\/wave.jpg": {
 		"ft": 16384,
 		"iS": 1276790,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/wave.jpg",
 		"oF": 0,
@@ -491,6 +494,7 @@
 	"\/old\/apple\/Images\/MacLinks_Background.jpg": {
 		"ft": 16384,
 		"iS": 74712,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/apple\/Images\/MacLinks_Background.jpg",
 		"oF": 0,
@@ -625,6 +629,7 @@
 	"\/old\/Fun\/images\/Cruiser.jpg": {
 		"ft": 16384,
 		"iS": 286756,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Cruiser.jpg",
 		"oF": 0,
@@ -635,6 +640,7 @@
 	"\/old\/Fun\/images\/Cruiser_thumb.jpg": {
 		"ft": 16384,
 		"iS": 7679,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Cruiser_thumb.jpg",
 		"oF": 0,
@@ -656,6 +662,7 @@
 	"\/old\/Fun\/images\/Mini.jpg": {
 		"ft": 16384,
 		"iS": 650956,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Mini.jpg",
 		"oF": 0,
@@ -666,6 +673,7 @@
 	"\/old\/Fun\/images\/Mini_thumb.jpg": {
 		"ft": 16384,
 		"iS": 13467,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Mini_thumb.jpg",
 		"oF": 0,
@@ -676,6 +684,7 @@
 	"\/old\/Fun\/images\/Vista1.jpg": {
 		"ft": 16384,
 		"iS": 301074,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Vista1.jpg",
 		"oF": 0,
@@ -686,6 +695,7 @@
 	"\/old\/Fun\/images\/Vista1_thumb.jpg": {
 		"ft": 16384,
 		"iS": 7229,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Vista1_thumb.jpg",
 		"oF": 0,
@@ -696,6 +706,7 @@
 	"\/old\/Fun\/images\/Vista2.jpg": {
 		"ft": 16384,
 		"iS": 176903,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Vista2.jpg",
 		"oF": 0,
@@ -706,6 +717,7 @@
 	"\/old\/Fun\/images\/Vista2_thumb.jpg": {
 		"ft": 16384,
 		"iS": 5159,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/images\/Vista2_thumb.jpg",
 		"oF": 0,
@@ -733,6 +745,7 @@
 	"\/old\/Fun\/Mini10x7.jpg": {
 		"ft": 16384,
 		"iS": 112370,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/Mini10x7.jpg",
 		"oF": 0,
@@ -750,6 +763,7 @@
 	"\/old\/Fun\/PTPUNCH.jpg": {
 		"ft": 16384,
 		"iS": 29526,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/PTPUNCH.jpg",
 		"oF": 0,
@@ -777,6 +791,7 @@
 	"\/old\/Fun\/vista1.jpg": {
 		"ft": 16384,
 		"iS": 47770,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/vista1.jpg",
 		"oF": 0,
@@ -787,6 +802,7 @@
 	"\/old\/Fun\/vista2.jpg": {
 		"ft": 16384,
 		"iS": 44471,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/Fun\/vista2.jpg",
 		"oF": 0,
@@ -1019,6 +1035,7 @@
 	"\/old\/ht\/images\/htbkg.jpg": {
 		"ft": 16384,
 		"iS": 12703,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/ht\/images\/htbkg.jpg",
 		"oF": 0,
@@ -1037,6 +1054,7 @@
 	"\/old\/ht\/images\/onehdformatblack.jpg": {
 		"ft": 16384,
 		"iS": 5896,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/ht\/images\/onehdformatblack.jpg",
 		"oF": 0,
@@ -1098,6 +1116,7 @@
 	"\/old\/ht\/MyTheater\/ShelfPlan\/shelf_close.jpg": {
 		"ft": 16384,
 		"iS": 22064,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/shelf_close.jpg",
 		"oF": 0,
@@ -1132,6 +1151,7 @@
 	"\/old\/ht\/MyTheater\/sr30.jpg": {
 		"ft": 16384,
 		"iS": 20147,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/ht\/MyTheater\/sr30.jpg",
 		"oF": 0,
@@ -1142,6 +1162,7 @@
 	"\/old\/ht\/MyTheater\/WideBig.jpg": {
 		"ft": 16384,
 		"iS": 64511,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/old\/ht\/MyTheater\/WideBig.jpg",
 		"oF": 0,
@@ -1231,12 +1252,12 @@
 		},
 	"\/Portfolio\/activity1_tn.png": {
 		"ft": 32768,
-		"iS": 275111,
+		"iS": 323406,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1253,12 +1274,12 @@
 		},
 	"\/Portfolio\/activity2_tn.png": {
 		"ft": 32768,
-		"iS": 224213,
+		"iS": 102195,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1275,12 +1296,12 @@
 		},
 	"\/Portfolio\/activity3_tn.png": {
 		"ft": 32768,
-		"iS": 305850,
+		"iS": 229383,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1297,12 +1318,12 @@
 		},
 	"\/Portfolio\/ax6-1_tn.png": {
 		"ft": 32768,
-		"iS": 139161,
+		"iS": 46196,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1319,12 +1340,12 @@
 		},
 	"\/Portfolio\/ax6-2_tn.png": {
 		"ft": 32768,
-		"iS": 196647,
+		"iS": 63842,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1341,12 +1362,12 @@
 		},
 	"\/Portfolio\/ax6-3_tn.png": {
 		"ft": 32768,
-		"iS": 75414,
+		"iS": 18330,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1363,12 +1384,12 @@
 		},
 	"\/Portfolio\/axweb1_tn.png": {
 		"ft": 32768,
-		"iS": 89780,
+		"iS": 57448,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1385,12 +1406,12 @@
 		},
 	"\/Portfolio\/axweb2_tn.png": {
 		"ft": 32768,
-		"iS": 96266,
+		"iS": 66385,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1407,12 +1428,12 @@
 		},
 	"\/Portfolio\/axweb3_tn.png": {
 		"ft": 32768,
-		"iS": 110204,
+		"iS": 69339,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1437,25 +1458,47 @@
 		"oAP": "\/Portfolio\/copyImages.sh",
 		"oF": 0
 		},
-	"\/Portfolio\/farmqa-controller.png": {
+	"\/Portfolio\/farmqa-assigncrop.png": {
 		"ft": 32768,
-		"iS": 5516046,
+		"iS": 1970300,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-controller.png",
+		"oAP": "\/Portfolio\/farmqa-assigncrop.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-controller_tn.png": {
+	"\/Portfolio\/farmqa-assigncrop_tn.png": {
 		"ft": 32768,
-		"iS": 357470,
+		"iS": 1970300,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-controller_tn.png",
+		"oAP": "\/Portfolio\/farmqa-assigncrop_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-edittemplate.png": {
+		"ft": 32768,
+		"iS": 144743,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-edittemplate.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-edittemplate_tn.png": {
+		"ft": 32768,
+		"iS": 144743,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-edittemplate_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1472,34 +1515,122 @@
 		},
 	"\/Portfolio\/farmqa-home_tn.png": {
 		"ft": 32768,
-		"iS": 368648,
+		"iS": 1414993,
 		"oA": 0,
 		"oAP": "\/Portfolio\/farmqa-home_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting.png": {
+	"\/Portfolio\/farmqa-map.png": {
 		"ft": 32768,
-		"iS": 166837,
+		"iS": 10495873,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting.png",
+		"oAP": "\/Portfolio\/farmqa-map.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-map_tn.png": {
+		"ft": 32768,
+		"iS": 10495873,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-map_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting1.png": {
+		"ft": 32768,
+		"iS": 2728185,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting_tn.png": {
+	"\/Portfolio\/farmqa-scouting1_tn.png": {
 		"ft": 32768,
-		"iS": 63300,
+		"iS": 2728185,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting_tn.png",
+		"oAP": "\/Portfolio\/farmqa-scouting1_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting2.png": {
+		"ft": 32768,
+		"iS": 232733,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting2_tn.png": {
+		"ft": 32768,
+		"iS": 232733,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting2_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting3.png": {
+		"ft": 32768,
+		"iS": 209307,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting3.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-scouting3_tn.png": {
+		"ft": 32768,
+		"iS": 209307,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-scouting3_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-templatedesigner.png": {
+		"ft": 32768,
+		"iS": 146261,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-templatedesigner.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/Portfolio\/farmqa-templatedesigner_tn.png": {
+		"ft": 32768,
+		"iS": 146261,
+		"oA": 0,
+		"oAP": "\/Portfolio\/farmqa-templatedesigner_tn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1508,6 +1639,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/Portfolio\/FixImages.workflow\/Contents\/document.wflow",
+		"oF": 0
+		},
+	"\/Portfolio\/FixImages.workflow\/Contents\/Info.plist": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/Portfolio\/FixImages.workflow\/Contents\/Info.plist",
 		"oF": 0
 		},
 	"\/Portfolio\/FixImages.workflow\/Contents\/QuickLook\/Thumbnail.png": {
@@ -1534,12 +1672,12 @@
 		},
 	"\/Portfolio\/gp1_tn.png": {
 		"ft": 32768,
-		"iS": 223815,
+		"iS": 95126,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1556,12 +1694,12 @@
 		},
 	"\/Portfolio\/gp2_tn.png": {
 		"ft": 32768,
-		"iS": 124054,
+		"iS": 58428,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1578,12 +1716,12 @@
 		},
 	"\/Portfolio\/gp3_tn.png": {
 		"ft": 32768,
-		"iS": 113274,
+		"iS": 29498,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1600,12 +1738,12 @@
 		},
 	"\/Portfolio\/hrm1_tn.png": {
 		"ft": 32768,
-		"iS": 220005,
+		"iS": 91202,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1622,12 +1760,12 @@
 		},
 	"\/Portfolio\/hrm2_tn.png": {
 		"ft": 32768,
-		"iS": 129439,
+		"iS": 56654,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1644,12 +1782,12 @@
 		},
 	"\/Portfolio\/hrm3_tn.png": {
 		"ft": 32768,
-		"iS": 114428,
+		"iS": 52246,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1666,12 +1804,12 @@
 		},
 	"\/Portfolio\/oasis1_tn.png": {
 		"ft": 32768,
-		"iS": 486362,
+		"iS": 288435,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1688,12 +1826,12 @@
 		},
 	"\/Portfolio\/oasis2_tn.png": {
 		"ft": 32768,
-		"iS": 441162,
+		"iS": 266824,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1710,12 +1848,12 @@
 		},
 	"\/Portfolio\/oasis3_tn.png": {
 		"ft": 32768,
-		"iS": 474192,
+		"iS": 309389,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1739,12 +1877,12 @@
 		},
 	"\/Portfolio\/proj1_tn.png": {
 		"ft": 32768,
-		"iS": 155270,
+		"iS": 20803,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1768,12 +1906,12 @@
 		},
 	"\/Portfolio\/proj2_tn.png": {
 		"ft": 32768,
-		"iS": 64223,
+		"iS": 7587,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1797,12 +1935,12 @@
 		},
 	"\/Portfolio\/proj3_tn.png": {
 		"ft": 32768,
-		"iS": 38585,
+		"iS": 5062,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1819,12 +1957,12 @@
 		},
 	"\/Portfolio\/Talent1_tn.png": {
 		"ft": 32768,
-		"iS": 171080,
+		"iS": 502480,
 		"oA": 0,
 		"oAP": "\/Portfolio\/Talent1_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1841,12 +1979,12 @@
 		},
 	"\/Portfolio\/Talent2_tn.png": {
 		"ft": 32768,
-		"iS": 134352,
+		"iS": 781648,
 		"oA": 0,
 		"oAP": "\/Portfolio\/Talent2_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1863,12 +2001,12 @@
 		},
 	"\/Portfolio\/Talent3_tn.png": {
 		"ft": 32768,
-		"iS": 120611,
+		"iS": 631222,
 		"oA": 0,
 		"oAP": "\/Portfolio\/Talent3_tn.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1903,6 +2041,7 @@
 	"displayValue": "brian.glaeske.name",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-archer",
+	"iconImageWasSetByUser": 0,
 	"lastBuiltDate": 542157952
 	},
 "projectSettings": {
@@ -3706,6 +3845,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
