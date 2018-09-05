@@ -23,18 +23,19 @@
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
+	"\/.vscode\/settings.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/.vscode\/settings-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/assets.http:--brian.glaeske.name-.plist": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/assets.http:--brian.glaeske.name-.plist",
-		"oF": 0
-		},
-	"\/build\/.gitignore": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/.gitignore",
 		"oF": 0
 		},
 	"\/codekit-config.json": {
@@ -1252,7 +1253,7 @@
 		},
 	"\/Portfolio\/activity1_tn.png": {
 		"ft": 32768,
-		"iS": 323406,
+		"iS": 275111,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity1_tn.png",
 		"oF": 0,
@@ -1274,7 +1275,7 @@
 		},
 	"\/Portfolio\/activity2_tn.png": {
 		"ft": 32768,
-		"iS": 102195,
+		"iS": 224213,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity2_tn.png",
 		"oF": 0,
@@ -1296,7 +1297,7 @@
 		},
 	"\/Portfolio\/activity3_tn.png": {
 		"ft": 32768,
-		"iS": 229383,
+		"iS": 305850,
 		"oA": 0,
 		"oAP": "\/Portfolio\/activity3_tn.png",
 		"oF": 0,
@@ -1318,7 +1319,7 @@
 		},
 	"\/Portfolio\/ax6-1_tn.png": {
 		"ft": 32768,
-		"iS": 46196,
+		"iS": 139161,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-1_tn.png",
 		"oF": 0,
@@ -1340,7 +1341,7 @@
 		},
 	"\/Portfolio\/ax6-2_tn.png": {
 		"ft": 32768,
-		"iS": 63842,
+		"iS": 196647,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-2_tn.png",
 		"oF": 0,
@@ -1362,7 +1363,7 @@
 		},
 	"\/Portfolio\/ax6-3_tn.png": {
 		"ft": 32768,
-		"iS": 18330,
+		"iS": 75414,
 		"oA": 0,
 		"oAP": "\/Portfolio\/ax6-3_tn.png",
 		"oF": 0,
@@ -1384,7 +1385,7 @@
 		},
 	"\/Portfolio\/axweb1_tn.png": {
 		"ft": 32768,
-		"iS": 57448,
+		"iS": 89780,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb1_tn.png",
 		"oF": 0,
@@ -1406,7 +1407,7 @@
 		},
 	"\/Portfolio\/axweb2_tn.png": {
 		"ft": 32768,
-		"iS": 66385,
+		"iS": 96266,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb2_tn.png",
 		"oF": 0,
@@ -1428,7 +1429,7 @@
 		},
 	"\/Portfolio\/axweb3_tn.png": {
 		"ft": 32768,
-		"iS": 69339,
+		"iS": 110204,
 		"oA": 0,
 		"oAP": "\/Portfolio\/axweb3_tn.png",
 		"oF": 0,
@@ -1672,7 +1673,7 @@
 		},
 	"\/Portfolio\/gp1_tn.png": {
 		"ft": 32768,
-		"iS": 95126,
+		"iS": 223815,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp1_tn.png",
 		"oF": 0,
@@ -1694,7 +1695,7 @@
 		},
 	"\/Portfolio\/gp2_tn.png": {
 		"ft": 32768,
-		"iS": 58428,
+		"iS": 124054,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp2_tn.png",
 		"oF": 0,
@@ -1716,7 +1717,7 @@
 		},
 	"\/Portfolio\/gp3_tn.png": {
 		"ft": 32768,
-		"iS": 29498,
+		"iS": 113274,
 		"oA": 0,
 		"oAP": "\/Portfolio\/gp3_tn.png",
 		"oF": 0,
@@ -1738,7 +1739,7 @@
 		},
 	"\/Portfolio\/hrm1_tn.png": {
 		"ft": 32768,
-		"iS": 91202,
+		"iS": 220005,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm1_tn.png",
 		"oF": 0,
@@ -1760,7 +1761,7 @@
 		},
 	"\/Portfolio\/hrm2_tn.png": {
 		"ft": 32768,
-		"iS": 56654,
+		"iS": 129439,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm2_tn.png",
 		"oF": 0,
@@ -1782,7 +1783,7 @@
 		},
 	"\/Portfolio\/hrm3_tn.png": {
 		"ft": 32768,
-		"iS": 52246,
+		"iS": 114428,
 		"oA": 0,
 		"oAP": "\/Portfolio\/hrm3_tn.png",
 		"oF": 0,
@@ -1804,7 +1805,7 @@
 		},
 	"\/Portfolio\/oasis1_tn.png": {
 		"ft": 32768,
-		"iS": 288435,
+		"iS": 486362,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis1_tn.png",
 		"oF": 0,
@@ -1826,7 +1827,7 @@
 		},
 	"\/Portfolio\/oasis2_tn.png": {
 		"ft": 32768,
-		"iS": 266824,
+		"iS": 441162,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis2_tn.png",
 		"oF": 0,
@@ -1848,7 +1849,7 @@
 		},
 	"\/Portfolio\/oasis3_tn.png": {
 		"ft": 32768,
-		"iS": 309389,
+		"iS": 474192,
 		"oA": 0,
 		"oAP": "\/Portfolio\/oasis3_tn.png",
 		"oF": 0,
@@ -1877,7 +1878,7 @@
 		},
 	"\/Portfolio\/proj1_tn.png": {
 		"ft": 32768,
-		"iS": 20803,
+		"iS": 155270,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj1_tn.png",
 		"oF": 0,
@@ -1906,7 +1907,7 @@
 		},
 	"\/Portfolio\/proj2_tn.png": {
 		"ft": 32768,
-		"iS": 7587,
+		"iS": 64223,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj2_tn.png",
 		"oF": 0,
@@ -1935,7 +1936,7 @@
 		},
 	"\/Portfolio\/proj3_tn.png": {
 		"ft": 32768,
-		"iS": 5062,
+		"iS": 38585,
 		"oA": 0,
 		"oAP": "\/Portfolio\/proj3_tn.png",
 		"oF": 0,
