@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,2029 +7,2036 @@
 		"uuidString": "E981695E-8B43-4D63-9362-82E1EB394919"
 		}
 	],
-"creatorBuild": "26680",
+"creatorBuild": "28905",
 "files": {
-	"\/.gitignore": {
+	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.gitignore",
+		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"\/.htaccess": {
+	"/.htaccess": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/.htaccess",
+		"oAP": "/.htaccess",
 		"oF": 0
 		},
-	"\/.vscode\/settings.json": {
+	"/.vscode/settings.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/.vscode\/settings-min.json",
+		"oAP": "/.vscode/settings-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/assets.http:--brian.glaeske.name-.plist": {
+	"/assets.http:--brian.glaeske.name-.plist": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets.http:--brian.glaeske.name-.plist",
+		"oAP": "/assets.http:--brian.glaeske.name-.plist",
 		"oF": 0
 		},
-	"\/codekit-config.json": {
+	"/build/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
+	"/codekit-config.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/codekit-config-min.json",
+		"oAP": "/codekit-config-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/css\/default.css": {
+	"/css/default.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/css\/default-min.css",
+		"oAP": "/css/default-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/favicon.ico": {
+	"/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/favicon.ico",
+		"oAP": "/favicon.ico",
 		"oF": 0
 		},
-	"\/fonts\/config.json": {
+	"/fonts/config.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/fonts\/config-min.json",
+		"oAP": "/fonts/config-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/fonts\/fontello.eot": {
+	"/fonts/fontello.eot": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontello.eot",
+		"oAP": "/fonts/fontello.eot",
 		"oF": 0
 		},
-	"\/fonts\/fontello.svg": {
+	"/fonts/fontello.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/fonts\/fontello.svg",
+		"oAP": "/fonts/fontello.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/fonts\/fontello.ttf": {
+	"/fonts/fontello.ttf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontello.ttf",
+		"oAP": "/fonts/fontello.ttf",
 		"oF": 0
 		},
-	"\/fonts\/fontello.woff": {
+	"/fonts/fontello.woff": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/fonts\/fontello.woff",
+		"oAP": "/fonts/fontello.woff",
 		"oF": 0
 		},
-	"\/google0ecd52a6f1e5c5ee.html": {
+	"/google0ecd52a6f1e5c5ee.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/google0ecd52a6f1e5c5ee.html",
+		"oAP": "/google0ecd52a6f1e5c5ee.html",
 		"oF": 0
 		},
-	"\/img\/background.png": {
+	"/img/background.png": {
 		"ft": 32768,
 		"iS": 1050460,
 		"oA": 0,
-		"oAP": "\/img\/background.png",
+		"oAP": "/img/background.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/background.svg": {
+	"/img/background.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/img\/background.svg",
+		"oAP": "/img/background.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/img\/iStock_000012604355Illustra\/illustration.eps": {
+	"/img/iStock_000012604355Illustra/illustration.eps": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/img\/iStock_000012604355Illustra\/illustration.eps",
+		"oAP": "/img/iStock_000012604355Illustra/illustration.eps",
 		"oF": 0
 		},
-	"\/img\/iStock_000012604355Illustra\/wave.jpg": {
+	"/img/iStock_000012604355Illustra/wave.jpg": {
 		"ft": 16384,
 		"iS": 9660720,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/iStock_000012604355Illustra\/wave.jpg",
+		"oAP": "/img/iStock_000012604355Illustra/wave.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/img\/wave-xxx.jpg": {
+	"/img/wave-xxx.jpg": {
 		"ft": 16384,
 		"iS": 1033120,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/wave-xxx.jpg",
+		"oAP": "/img/wave-xxx.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/img\/wave.jpg": {
+	"/img/wave.jpg": {
 		"ft": 16384,
 		"iS": 1276790,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/img\/wave.jpg",
+		"oAP": "/img/wave.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/index.html": {
+	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "/index.html",
 		"oF": 0
 		},
-	"\/js\/default.js": {
+	"/js/default.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/default-ck.js",
+		"oAP": "/js/min/default-ck.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/min\/default-ck.js": {
+	"/js/min/default-ck.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/min\/default-ck-min.js",
+		"oAP": "/js/min/min/default-ck-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/min\/wurfl-ck.js": {
+	"/js/min/wurfl-ck.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/min\/wurfl-ck-min.js",
+		"oAP": "/js/min/min/wurfl-ck-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/js\/wurfl.js": {
+	"/js/wurfl.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/js\/min\/wurfl-ck.js",
+		"oAP": "/js/min/wurfl-ck.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/less\/animation.less": {
+	"/less/animation.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/css\/animation.css",
+		"oAP": "/css/animation.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/constants.less": {
+	"/less/constants.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/css\/constants.css",
+		"oAP": "/css/constants.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/default.less": {
+	"/less/default.less": {
 		"aP": 1,
 		"bl": 1,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 0,
-		"oAP": "\/css\/default.css",
+		"oAP": "/css/default.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/logo.less": {
+	"/less/logo.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/css\/logo.css",
+		"oAP": "/css/logo.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/less\/symbols.less": {
+	"/less/symbols.less": {
 		"aP": 0,
 		"bl": 0,
-		"dJ": 0,
+		"eJ": 0,
 		"ft": 1,
 		"ie": 1,
 		"iI": 0,
 		"ma": 0,
+		"mS": 0,
 		"oA": 1,
-		"oAP": "\/css\/symbols.css",
+		"oAP": "/css/symbols.css",
 		"oF": 0,
 		"oS": 0,
-		"rU": 0,
+		"rwU": 0,
 		"sI": 0,
-		"sM": 0,
 		"sU": 0
 		},
-	"\/MainSite.esproj\/Project.espressostorage": {
+	"/MainSite.esproj/Project.espressostorage": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/MainSite.esproj\/Project.espressostorage",
+		"oAP": "/MainSite.esproj/Project.espressostorage",
 		"oF": 0
 		},
-	"\/MainSite.esproj\/user.brian.espressostorage": {
+	"/MainSite.esproj/user.brian.espressostorage": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/MainSite.esproj\/user.brian.espressostorage",
+		"oAP": "/MainSite.esproj/user.brian.espressostorage",
 		"oF": 0
 		},
-	"\/old\/apple\/apps\/*e*ris.dmg": {
+	"/old/apple/apps/*e*ris.dmg": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/old\/apple\/apps\/*e*ris.dmg",
+		"oAP": "/old/apple/apps/*e*ris.dmg",
 		"oF": 0
 		},
-	"\/old\/apple\/apps\/*e*ris.png": {
+	"/old/apple/apps/*e*ris.png": {
 		"ft": 32768,
 		"iS": 5717,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/*e*ris.png",
+		"oAP": "/old/apple/apps/*e*ris.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/Chrono.png": {
+	"/old/apple/apps/Chrono.png": {
 		"ft": 32768,
 		"iS": 5800,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/Chrono.png",
+		"oAP": "/old/apple/apps/Chrono.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/DockClockX.dmg": {
+	"/old/apple/apps/DockClockX.dmg": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/old\/apple\/apps\/DockClockX.dmg",
+		"oAP": "/old/apple/apps/DockClockX.dmg",
 		"oF": 0
 		},
-	"\/old\/apple\/apps\/DockClockX.png": {
+	"/old/apple/apps/DockClockX.png": {
 		"ft": 32768,
 		"iS": 4845,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/DockClockX.png",
+		"oAP": "/old/apple/apps/DockClockX.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/Graffle.png": {
+	"/old/apple/apps/Graffle.png": {
 		"ft": 32768,
 		"iS": 4380,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/Graffle.png",
+		"oAP": "/old/apple/apps/Graffle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/iPhoto.png": {
+	"/old/apple/apps/iPhoto.png": {
 		"ft": 32768,
 		"iS": 5348,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/iPhoto.png",
+		"oAP": "/old/apple/apps/iPhoto.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/Keychain.png": {
+	"/old/apple/apps/Keychain.png": {
 		"ft": 32768,
 		"iS": 14073,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/Keychain.png",
+		"oAP": "/old/apple/apps/Keychain.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/KidApps.dmg": {
+	"/old/apple/apps/KidApps.dmg": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/old\/apple\/apps\/KidApps.dmg",
+		"oAP": "/old/apple/apps/KidApps.dmg",
 		"oF": 0
 		},
-	"\/old\/apple\/apps\/KidPaint.dmg": {
+	"/old/apple/apps/KidPaint.dmg": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/old\/apple\/apps\/KidPaint.dmg",
+		"oAP": "/old/apple/apps/KidPaint.dmg",
 		"oF": 0
 		},
-	"\/old\/apple\/apps\/KidPaint.png": {
+	"/old/apple/apps/KidPaint.png": {
 		"ft": 32768,
 		"iS": 5123,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/KidPaint.png",
+		"oAP": "/old/apple/apps/KidPaint.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/Kitty.png": {
+	"/old/apple/apps/Kitty.png": {
 		"ft": 32768,
 		"iS": 4735,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/Kitty.png",
+		"oAP": "/old/apple/apps/Kitty.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/LaunchBar.png": {
+	"/old/apple/apps/LaunchBar.png": {
 		"ft": 32768,
 		"iS": 13500,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/LaunchBar.png",
+		"oAP": "/old/apple/apps/LaunchBar.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/apps\/Photoshop.png": {
+	"/old/apple/apps/Photoshop.png": {
 		"ft": 32768,
 		"iS": 2921,
 		"oA": 0,
-		"oAP": "\/old\/apple\/apps\/Photoshop.png",
+		"oAP": "/old/apple/apps/Photoshop.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/design-min.css": {
+	"/old/apple/design-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/apple\/design-min-min.css",
+		"oAP": "/old/apple/design-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/apple\/design.css": {
+	"/old/apple/design.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/apple\/design-min.css",
+		"oAP": "/old/apple/design-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/apple\/f.html": {
+	"/old/apple/f.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/apple\/f.html",
+		"oAP": "/old/apple/f.html",
 		"oF": 0
 		},
-	"\/old\/apple\/Images\/BottomFade.png": {
+	"/old/apple/Images/BottomFade.png": {
 		"ft": 32768,
 		"iS": 191,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/BottomFade.png",
+		"oAP": "/old/apple/Images/BottomFade.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/MacLinks_Background.jpg": {
+	"/old/apple/Images/MacLinks_Background.jpg": {
 		"ft": 16384,
 		"iS": 74712,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/MacLinks_Background.jpg",
+		"oAP": "/old/apple/Images/MacLinks_Background.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Narrow_Bottom.png": {
+	"/old/apple/Images/Narrow_Bottom.png": {
 		"ft": 32768,
 		"iS": 336,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Narrow_Bottom.png",
+		"oAP": "/old/apple/Images/Narrow_Bottom.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Narrow_Middle.png": {
+	"/old/apple/Images/Narrow_Middle.png": {
 		"ft": 32768,
 		"iS": 193,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Narrow_Middle.png",
+		"oAP": "/old/apple/Images/Narrow_Middle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Narrow_Top.png": {
+	"/old/apple/Images/Narrow_Top.png": {
 		"ft": 32768,
 		"iS": 5532,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Narrow_Top.png",
+		"oAP": "/old/apple/Images/Narrow_Top.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/TopBar.png": {
+	"/old/apple/Images/TopBar.png": {
 		"ft": 32768,
 		"iS": 61446,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/TopBar.png",
+		"oAP": "/old/apple/Images/TopBar.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Wide_Bottom.png": {
+	"/old/apple/Images/Wide_Bottom.png": {
 		"ft": 32768,
 		"iS": 345,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Wide_Bottom.png",
+		"oAP": "/old/apple/Images/Wide_Bottom.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Wide_Middle.png": {
+	"/old/apple/Images/Wide_Middle.png": {
 		"ft": 32768,
 		"iS": 183,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Wide_Middle.png",
+		"oAP": "/old/apple/Images/Wide_Middle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/Images\/Wide_Top.png": {
+	"/old/apple/Images/Wide_Top.png": {
 		"ft": 32768,
 		"iS": 12523,
 		"oA": 0,
-		"oAP": "\/old\/apple\/Images\/Wide_Top.png",
+		"oAP": "/old/apple/Images/Wide_Top.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/apple\/index.html": {
+	"/old/apple/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/apple\/index.html",
+		"oAP": "/old/apple/index.html",
 		"oF": 0
 		},
-	"\/old\/apple\/small-device-min.css": {
+	"/old/apple/small-device-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/apple\/small-device-min-min.css",
+		"oAP": "/old/apple/small-device-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/apple\/small-device.css": {
+	"/old/apple/small-device.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/apple\/small-device-min.css",
+		"oAP": "/old/apple/small-device-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/Fun\/design-min.css": {
+	"/old/Fun/design-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/Fun\/design-min-min.css",
+		"oAP": "/old/Fun/design-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/Fun\/design.css": {
+	"/old/Fun/design.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/design-min.css",
+		"oAP": "/old/Fun/design-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/Fun\/images\/Cruiser.jpg": {
+	"/old/Fun/images/Cruiser.jpg": {
 		"ft": 16384,
 		"iS": 286756,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Cruiser.jpg",
+		"oAP": "/old/Fun/images/Cruiser.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Cruiser_thumb.jpg": {
+	"/old/Fun/images/Cruiser_thumb.jpg": {
 		"ft": 16384,
 		"iS": 7679,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Cruiser_thumb.jpg",
+		"oAP": "/old/Fun/images/Cruiser_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Fun-Top.png": {
+	"/old/Fun/images/Fun-Top.png": {
 		"ft": 32768,
 		"iS": 41125,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Fun-Top.png",
+		"oAP": "/old/Fun/images/Fun-Top.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Mini.jpg": {
+	"/old/Fun/images/Mini.jpg": {
 		"ft": 16384,
 		"iS": 650956,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Mini.jpg",
+		"oAP": "/old/Fun/images/Mini.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Mini_thumb.jpg": {
+	"/old/Fun/images/Mini_thumb.jpg": {
 		"ft": 16384,
 		"iS": 13467,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Mini_thumb.jpg",
+		"oAP": "/old/Fun/images/Mini_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Vista1.jpg": {
+	"/old/Fun/images/Vista1.jpg": {
 		"ft": 16384,
 		"iS": 301074,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Vista1.jpg",
+		"oAP": "/old/Fun/images/Vista1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Vista1_thumb.jpg": {
+	"/old/Fun/images/Vista1_thumb.jpg": {
 		"ft": 16384,
 		"iS": 7229,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Vista1_thumb.jpg",
+		"oAP": "/old/Fun/images/Vista1_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Vista2.jpg": {
+	"/old/Fun/images/Vista2.jpg": {
 		"ft": 16384,
 		"iS": 176903,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Vista2.jpg",
+		"oAP": "/old/Fun/images/Vista2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/images\/Vista2_thumb.jpg": {
+	"/old/Fun/images/Vista2_thumb.jpg": {
 		"ft": 16384,
 		"iS": 5159,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/images\/Vista2_thumb.jpg",
+		"oAP": "/old/Fun/images/Vista2_thumb.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/index.html": {
+	"/old/Fun/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/index.html",
+		"oAP": "/old/Fun/index.html",
 		"oF": 0
 		},
-	"\/old\/Fun\/min\/script-ck.js": {
+	"/old/Fun/min/script-ck.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/min\/min\/script-ck-min.js",
+		"oAP": "/old/Fun/min/min/script-ck-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/old\/Fun\/Mini10x7.jpg": {
+	"/old/Fun/Mini10x7.jpg": {
 		"ft": 16384,
 		"iS": 112370,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/Mini10x7.jpg",
+		"oAP": "/old/Fun/Mini10x7.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/new_index.html": {
+	"/old/Fun/new_index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/new_index.html",
+		"oAP": "/old/Fun/new_index.html",
 		"oF": 0
 		},
-	"\/old\/Fun\/PTPUNCH.jpg": {
+	"/old/Fun/PTPUNCH.jpg": {
 		"ft": 16384,
 		"iS": 29526,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/PTPUNCH.jpg",
+		"oAP": "/old/Fun/PTPUNCH.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/script.js": {
+	"/old/Fun/script.js": {
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/min\/script-ck.js",
+		"oAP": "/old/Fun/min/script-ck.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/old\/Fun\/Shopping.html": {
+	"/old/Fun/Shopping.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/Shopping.html",
+		"oAP": "/old/Fun/Shopping.html",
 		"oF": 0
 		},
-	"\/old\/Fun\/vista1.jpg": {
+	"/old/Fun/vista1.jpg": {
 		"ft": 16384,
 		"iS": 47770,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/vista1.jpg",
+		"oAP": "/old/Fun/vista1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/Fun\/vista2.jpg": {
+	"/old/Fun/vista2.jpg": {
 		"ft": 16384,
 		"iS": 44471,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/Fun\/vista2.jpg",
+		"oAP": "/old/Fun/vista2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/design-min.css": {
+	"/old/ht/design-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/ht\/design-min-min.css",
+		"oAP": "/old/ht/design-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/old\/ht\/design.css": {
+	"/old/ht/design.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/design-min.css",
+		"oAP": "/old/ht/design-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/ht\/Fargo-HDTV\/design-min.css": {
+	"/old/ht/Fargo-HDTV/design-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/design-min-min.css",
+		"oAP": "/old/ht/Fargo-HDTV/design-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/old\/ht\/Fargo-HDTV\/design.css": {
+	"/old/ht/Fargo-HDTV/design.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/design-min.css",
+		"oAP": "/old/ht/Fargo-HDTV/design-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/ABC.png": {
+	"/old/ht/Fargo-HDTV/images/ABC.png": {
 		"ft": 32768,
 		"iS": 3096,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/ABC.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/ABC.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/CBS.png": {
+	"/old/ht/Fargo-HDTV/images/CBS.png": {
 		"ft": 32768,
 		"iS": 1469,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/CBS.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/CBS.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/dtv_animated.gif": {
+	"/old/ht/Fargo-HDTV/images/dtv_animated.gif": {
 		"ft": 4194304,
 		"iS": 10647,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/dtv_animated.gif",
+		"oAP": "/old/ht/Fargo-HDTV/images/dtv_animated.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/ESPN.png": {
+	"/old/ht/Fargo-HDTV/images/ESPN.png": {
 		"ft": 32768,
 		"iS": 2680,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/ESPN.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/ESPN.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/Fox.png": {
+	"/old/ht/Fargo-HDTV/images/Fox.png": {
 		"ft": 32768,
 		"iS": 1831,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/Fox.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/Fox.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/HBO.png": {
+	"/old/ht/Fargo-HDTV/images/HBO.png": {
 		"ft": 32768,
 		"iS": 2330,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/HBO.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/HBO.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/HDTVBottom.gif": {
+	"/old/ht/Fargo-HDTV/images/HDTVBottom.gif": {
 		"ft": 4194304,
 		"iS": 7825,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/HDTVBottom.gif",
+		"oAP": "/old/ht/Fargo-HDTV/images/HDTVBottom.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/HDTVMiddle.gif": {
+	"/old/ht/Fargo-HDTV/images/HDTVMiddle.gif": {
 		"ft": 4194304,
 		"iS": 1618,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/HDTVMiddle.gif",
+		"oAP": "/old/ht/Fargo-HDTV/images/HDTVMiddle.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/HDTVTop.gif": {
+	"/old/ht/Fargo-HDTV/images/HDTVTop.gif": {
 		"ft": 4194304,
 		"iS": 23780,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/HDTVTop.gif",
+		"oAP": "/old/ht/Fargo-HDTV/images/HDTVTop.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/NBC.png": {
+	"/old/ht/Fargo-HDTV/images/NBC.png": {
 		"ft": 32768,
 		"iS": 3528,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/NBC.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/NBC.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/PBS.png": {
+	"/old/ht/Fargo-HDTV/images/PBS.png": {
 		"ft": 32768,
 		"iS": 3665,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/PBS.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/PBS.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/Showtime.png": {
+	"/old/ht/Fargo-HDTV/images/Showtime.png": {
 		"ft": 32768,
 		"iS": 2728,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/Showtime.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/Showtime.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/TNT.png": {
+	"/old/ht/Fargo-HDTV/images/TNT.png": {
 		"ft": 32768,
 		"iS": 4321,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/TNT.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/TNT.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/images\/UHD.png": {
+	"/old/ht/Fargo-HDTV/images/UHD.png": {
 		"ft": 32768,
 		"iS": 2757,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/images\/UHD.png",
+		"oAP": "/old/ht/Fargo-HDTV/images/UHD.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Fargo-HDTV\/index.html": {
+	"/old/ht/Fargo-HDTV/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Fargo-HDTV\/index.html",
+		"oAP": "/old/ht/Fargo-HDTV/index.html",
 		"oF": 0
 		},
-	"\/old\/ht\/images\/HT_Bottom.png": {
+	"/old/ht/images/HT_Bottom.png": {
 		"ft": 32768,
 		"iS": 9224,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/HT_Bottom.png",
+		"oAP": "/old/ht/images/HT_Bottom.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/HT_Middle.png": {
+	"/old/ht/images/HT_Middle.png": {
 		"ft": 32768,
 		"iS": 480,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/HT_Middle.png",
+		"oAP": "/old/ht/images/HT_Middle.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/HT_Top.png": {
+	"/old/ht/images/HT_Top.png": {
 		"ft": 32768,
 		"iS": 88481,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/HT_Top.png",
+		"oAP": "/old/ht/images/HT_Top.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/htbkg.jpg": {
+	"/old/ht/images/htbkg.jpg": {
 		"ft": 16384,
 		"iS": 12703,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/htbkg.jpg",
+		"oAP": "/old/ht/images/htbkg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/lt_bullet.gif": {
+	"/old/ht/images/lt_bullet.gif": {
 		"ft": 4194304,
 		"iS": 825,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/lt_bullet.gif",
+		"oAP": "/old/ht/images/lt_bullet.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/images\/onehdformatblack.jpg": {
+	"/old/ht/images/onehdformatblack.jpg": {
 		"ft": 16384,
 		"iS": 5896,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/onehdformatblack.jpg",
+		"oAP": "/old/ht/images/onehdformatblack.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/Px.png": {
+	"/old/ht/images/Px.png": {
 		"ft": 32768,
 		"iS": 18073,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/Px.png",
+		"oAP": "/old/ht/images/Px.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/images\/quote.png": {
+	"/old/ht/images/quote.png": {
 		"ft": 32768,
 		"iS": 488,
 		"oA": 0,
-		"oAP": "\/old\/ht\/images\/quote.png",
+		"oAP": "/old/ht/images/quote.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/old\/ht\/index.html": {
+	"/old/ht/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/index.html",
+		"oAP": "/old/ht/index.html",
 		"oF": 0
 		},
-	"\/old\/ht\/MyTheater\/BasementHT.gif": {
+	"/old/ht/MyTheater/BasementHT.gif": {
 		"ft": 4194304,
 		"iS": 9786,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/BasementHT.gif",
+		"oAP": "/old/ht/MyTheater/BasementHT.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/MyTheater\/MyEquipment.html": {
+	"/old/ht/MyTheater/MyEquipment.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/MyEquipment.html",
+		"oAP": "/old/ht/MyTheater/MyEquipment.html",
 		"oF": 0
 		},
-	"\/old\/ht\/MyTheater\/ShelfPlan\/index.html": {
+	"/old/ht/MyTheater/ShelfPlan/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/index.html",
+		"oAP": "/old/ht/MyTheater/ShelfPlan/index.html",
 		"oF": 0
 		},
-	"\/old\/ht\/MyTheater\/ShelfPlan\/shelf_close.jpg": {
+	"/old/ht/MyTheater/ShelfPlan/shelf_close.jpg": {
 		"ft": 16384,
 		"iS": 22064,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/shelf_close.jpg",
+		"oAP": "/old/ht/MyTheater/ShelfPlan/shelf_close.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/MyTheater\/ShelfPlan\/shelf_detail.gif": {
+	"/old/ht/MyTheater/ShelfPlan/shelf_detail.gif": {
 		"ft": 4194304,
 		"iS": 14130,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/shelf_detail.gif",
+		"oAP": "/old/ht/MyTheater/ShelfPlan/shelf_detail.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/MyTheater\/ShelfPlan\/shelf_side.gif": {
+	"/old/ht/MyTheater/ShelfPlan/shelf_side.gif": {
 		"ft": 4194304,
 		"iS": 13987,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/shelf_side.gif",
+		"oAP": "/old/ht/MyTheater/ShelfPlan/shelf_side.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/MyTheater\/ShelfPlan\/shelf_top.gif": {
+	"/old/ht/MyTheater/ShelfPlan/shelf_top.gif": {
 		"ft": 4194304,
 		"iS": 7843,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/ShelfPlan\/shelf_top.gif",
+		"oAP": "/old/ht/MyTheater/ShelfPlan/shelf_top.gif",
 		"oF": 0,
 		"opt": 1
 		},
-	"\/old\/ht\/MyTheater\/sr30.jpg": {
+	"/old/ht/MyTheater/sr30.jpg": {
 		"ft": 16384,
 		"iS": 20147,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/sr30.jpg",
+		"oAP": "/old/ht/MyTheater/sr30.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/MyTheater\/WideBig.jpg": {
+	"/old/ht/MyTheater/WideBig.jpg": {
 		"ft": 16384,
 		"iS": 64511,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/MyTheater\/WideBig.jpg",
+		"oAP": "/old/ht/MyTheater/WideBig.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/old\/ht\/Reviews\/723GD.html": {
+	"/old/ht/Reviews/723GD.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Reviews\/723GD.html",
+		"oAP": "/old/ht/Reviews/723GD.html",
 		"oF": 0
 		},
-	"\/old\/ht\/Reviews\/Aquaria.html": {
+	"/old/ht/Reviews/Aquaria.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Reviews\/Aquaria.html",
+		"oAP": "/old/ht/Reviews/Aquaria.html",
 		"oF": 0
 		},
-	"\/old\/ht\/Reviews\/CableONE.html": {
+	"/old/ht/Reviews/CableONE.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Reviews\/CableONE.html",
+		"oAP": "/old/ht/Reviews/CableONE.html",
 		"oF": 0
 		},
-	"\/old\/ht\/Reviews\/DVD-LV55.html": {
+	"/old/ht/Reviews/DVD-LV55.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/ht\/Reviews\/DVD-LV55.html",
+		"oAP": "/old/ht/Reviews/DVD-LV55.html",
 		"oF": 0
 		},
-	"\/old\/ht\/style-min.css": {
+	"/old/ht/style-min.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 2,
-		"oAP": "\/old\/ht\/style-min-min.css",
+		"oAP": "/old/ht/style-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/old\/ht\/style.css": {
+	"/old/ht/style.css": {
 		"aP": 0,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/old\/ht\/style-min.css",
+		"oAP": "/old/ht/style-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/old\/index.html": {
+	"/old/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/old\/index.html",
+		"oAP": "/old/index.html",
 		"oF": 0
 		},
-	"\/php.php": {
+	"/php.php": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/php.php",
+		"oAP": "/php.php",
 		"oF": 0
 		},
-	"\/Portfolio\/.png": {
+	"/Portfolio/.png": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/.png",
+		"oAP": "/Portfolio/.png",
 		"oF": 0
 		},
-	"\/Portfolio\/activity1.png": {
+	"/Portfolio/activity1.png": {
 		"ft": 32768,
 		"iS": 930785,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity1.png",
+		"oAP": "/Portfolio/activity1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/activity1_tn.png": {
+	"/Portfolio/activity1_tn.png": {
 		"ft": 32768,
-		"iS": 275111,
+		"iS": 323406,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity1_tn.png",
+		"oAP": "/Portfolio/activity1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/activity2.png": {
+	"/Portfolio/activity2.png": {
 		"ft": 32768,
 		"iS": 274208,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity2.png",
+		"oAP": "/Portfolio/activity2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/activity2_tn.png": {
+	"/Portfolio/activity2_tn.png": {
 		"ft": 32768,
-		"iS": 224213,
+		"iS": 102195,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity2_tn.png",
+		"oAP": "/Portfolio/activity2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/activity3.png": {
+	"/Portfolio/activity3.png": {
 		"ft": 32768,
 		"iS": 585696,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity3.png",
+		"oAP": "/Portfolio/activity3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/activity3_tn.png": {
+	"/Portfolio/activity3_tn.png": {
 		"ft": 32768,
-		"iS": 305850,
+		"iS": 229383,
 		"oA": 0,
-		"oAP": "\/Portfolio\/activity3_tn.png",
+		"oAP": "/Portfolio/activity3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-1.png": {
+	"/Portfolio/ax6-1.png": {
 		"ft": 32768,
 		"iS": 152999,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-1.png",
+		"oAP": "/Portfolio/ax6-1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-1_tn.png": {
+	"/Portfolio/ax6-1_tn.png": {
 		"ft": 32768,
-		"iS": 139161,
+		"iS": 46196,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-1_tn.png",
+		"oAP": "/Portfolio/ax6-1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-2.png": {
+	"/Portfolio/ax6-2.png": {
 		"ft": 32768,
 		"iS": 201428,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-2.png",
+		"oAP": "/Portfolio/ax6-2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-2_tn.png": {
+	"/Portfolio/ax6-2_tn.png": {
 		"ft": 32768,
-		"iS": 196647,
+		"iS": 63842,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-2_tn.png",
+		"oAP": "/Portfolio/ax6-2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-3.png": {
+	"/Portfolio/ax6-3.png": {
 		"ft": 32768,
 		"iS": 69287,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-3.png",
+		"oAP": "/Portfolio/ax6-3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/ax6-3_tn.png": {
+	"/Portfolio/ax6-3_tn.png": {
 		"ft": 32768,
-		"iS": 75414,
+		"iS": 18330,
 		"oA": 0,
-		"oAP": "\/Portfolio\/ax6-3_tn.png",
+		"oAP": "/Portfolio/ax6-3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb1.png": {
+	"/Portfolio/axweb1.png": {
 		"ft": 32768,
 		"iS": 182031,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb1.png",
+		"oAP": "/Portfolio/axweb1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb1_tn.png": {
+	"/Portfolio/axweb1_tn.png": {
 		"ft": 32768,
-		"iS": 89780,
+		"iS": 57448,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb1_tn.png",
+		"oAP": "/Portfolio/axweb1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb2.png": {
+	"/Portfolio/axweb2.png": {
 		"ft": 32768,
 		"iS": 214684,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb2.png",
+		"oAP": "/Portfolio/axweb2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb2_tn.png": {
+	"/Portfolio/axweb2_tn.png": {
 		"ft": 32768,
-		"iS": 96266,
+		"iS": 66385,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb2_tn.png",
+		"oAP": "/Portfolio/axweb2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb3.png": {
+	"/Portfolio/axweb3.png": {
 		"ft": 32768,
 		"iS": 208417,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb3.png",
+		"oAP": "/Portfolio/axweb3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/axweb3_tn.png": {
+	"/Portfolio/axweb3_tn.png": {
 		"ft": 32768,
-		"iS": 110204,
+		"iS": 69339,
 		"oA": 0,
-		"oAP": "\/Portfolio\/axweb3_tn.png",
+		"oAP": "/Portfolio/axweb3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Brian.Glaeske.Resume.pdf": {
+	"/Portfolio/Brian.Glaeske.Resume.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/Brian.Glaeske.Resume.pdf",
+		"oAP": "/Portfolio/Brian.Glaeske.Resume.pdf",
 		"oF": 0
 		},
-	"\/Portfolio\/Brian_Glaeske_Portfolio.pdf": {
+	"/Portfolio/Brian_Glaeske_Portfolio.pdf": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/Brian_Glaeske_Portfolio.pdf",
+		"oAP": "/Portfolio/Brian_Glaeske_Portfolio.pdf",
 		"oF": 0
 		},
-	"\/Portfolio\/copyImages.sh": {
+	"/Portfolio/copyImages.sh": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/copyImages.sh",
+		"oAP": "/Portfolio/copyImages.sh",
 		"oF": 0
 		},
-	"\/Portfolio\/farmqa-assigncrop.png": {
+	"/Portfolio/farmqa-assigncrop.png": {
 		"ft": 32768,
 		"iS": 1970300,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-assigncrop.png",
+		"oAP": "/Portfolio/farmqa-assigncrop.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-assigncrop_tn.png": {
+	"/Portfolio/farmqa-assigncrop_tn.png": {
 		"ft": 32768,
 		"iS": 1970300,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-assigncrop_tn.png",
+		"oAP": "/Portfolio/farmqa-assigncrop_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-edittemplate.png": {
+	"/Portfolio/farmqa-edittemplate.png": {
 		"ft": 32768,
 		"iS": 144743,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-edittemplate.png",
+		"oAP": "/Portfolio/farmqa-edittemplate.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-edittemplate_tn.png": {
+	"/Portfolio/farmqa-edittemplate_tn.png": {
 		"ft": 32768,
 		"iS": 144743,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-edittemplate_tn.png",
+		"oAP": "/Portfolio/farmqa-edittemplate_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-home.png": {
+	"/Portfolio/farmqa-home.png": {
 		"ft": 32768,
 		"iS": 4290263,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-home.png",
+		"oAP": "/Portfolio/farmqa-home.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-home_tn.png": {
+	"/Portfolio/farmqa-home_tn.png": {
 		"ft": 32768,
 		"iS": 1414993,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-home_tn.png",
+		"oAP": "/Portfolio/farmqa-home_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-map.png": {
+	"/Portfolio/farmqa-map.png": {
 		"ft": 32768,
 		"iS": 10495873,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-map.png",
+		"oAP": "/Portfolio/farmqa-map.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-map_tn.png": {
+	"/Portfolio/farmqa-map_tn.png": {
 		"ft": 32768,
 		"iS": 10495873,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-map_tn.png",
+		"oAP": "/Portfolio/farmqa-map_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting1.png": {
+	"/Portfolio/farmqa-scouting1.png": {
 		"ft": 32768,
 		"iS": 2728185,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting1.png",
+		"oAP": "/Portfolio/farmqa-scouting1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting1_tn.png": {
+	"/Portfolio/farmqa-scouting1_tn.png": {
 		"ft": 32768,
 		"iS": 2728185,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting1_tn.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/Portfolio\/farmqa-scouting2.png": {
-		"ft": 32768,
-		"iS": 232733,
-		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting2.png",
+		"oAP": "/Portfolio/farmqa-scouting1_tn.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting2_tn.png": {
+	"/Portfolio/farmqa-scouting2.png": {
 		"ft": 32768,
 		"iS": 232733,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting2_tn.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/Portfolio\/farmqa-scouting3.png": {
-		"ft": 32768,
-		"iS": 209307,
-		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting3.png",
+		"oAP": "/Portfolio/farmqa-scouting2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-scouting3_tn.png": {
+	"/Portfolio/farmqa-scouting2_tn.png": {
+		"ft": 32768,
+		"iS": 232733,
+		"oA": 0,
+		"oAP": "/Portfolio/farmqa-scouting2_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/Portfolio/farmqa-scouting3.png": {
 		"ft": 32768,
 		"iS": 209307,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-scouting3_tn.png",
+		"oAP": "/Portfolio/farmqa-scouting3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-templatedesigner.png": {
+	"/Portfolio/farmqa-scouting3_tn.png": {
+		"ft": 32768,
+		"iS": 209307,
+		"oA": 0,
+		"oAP": "/Portfolio/farmqa-scouting3_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/Portfolio/farmqa-templatedesigner.png": {
 		"ft": 32768,
 		"iS": 146261,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-templatedesigner.png",
+		"oAP": "/Portfolio/farmqa-templatedesigner.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/farmqa-templatedesigner_tn.png": {
+	"/Portfolio/farmqa-templatedesigner_tn.png": {
 		"ft": 32768,
 		"iS": 146261,
 		"oA": 0,
-		"oAP": "\/Portfolio\/farmqa-templatedesigner_tn.png",
+		"oAP": "/Portfolio/farmqa-templatedesigner_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/FixImages.workflow\/Contents\/document.wflow": {
+	"/Portfolio/FixImages.workflow/Contents/document.wflow": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/FixImages.workflow\/Contents\/document.wflow",
+		"oAP": "/Portfolio/FixImages.workflow/Contents/document.wflow",
 		"oF": 0
 		},
-	"\/Portfolio\/FixImages.workflow\/Contents\/Info.plist": {
+	"/Portfolio/FixImages.workflow/Contents/Info.plist": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/FixImages.workflow\/Contents\/Info.plist",
+		"oAP": "/Portfolio/FixImages.workflow/Contents/Info.plist",
 		"oF": 0
 		},
-	"\/Portfolio\/FixImages.workflow\/Contents\/QuickLook\/Thumbnail.png": {
+	"/Portfolio/FixImages.workflow/Contents/QuickLook/Thumbnail.png": {
 		"ft": 32768,
 		"iS": 42186,
 		"oA": 0,
-		"oAP": "\/Portfolio\/FixImages.workflow\/Contents\/QuickLook\/Thumbnail.png",
+		"oAP": "/Portfolio/FixImages.workflow/Contents/QuickLook/Thumbnail.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp1.png": {
+	"/Portfolio/gp1.png": {
 		"ft": 32768,
 		"iS": 211321,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp1.png",
+		"oAP": "/Portfolio/gp1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp1_tn.png": {
+	"/Portfolio/gp1_tn.png": {
 		"ft": 32768,
-		"iS": 223815,
+		"iS": 95126,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp1_tn.png",
+		"oAP": "/Portfolio/gp1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp2.png": {
+	"/Portfolio/gp2.png": {
 		"ft": 32768,
 		"iS": 109150,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp2.png",
+		"oAP": "/Portfolio/gp2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp2_tn.png": {
+	"/Portfolio/gp2_tn.png": {
 		"ft": 32768,
-		"iS": 124054,
+		"iS": 58428,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp2_tn.png",
+		"oAP": "/Portfolio/gp2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp3.png": {
+	"/Portfolio/gp3.png": {
 		"ft": 32768,
 		"iS": 52964,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp3.png",
+		"oAP": "/Portfolio/gp3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/gp3_tn.png": {
+	"/Portfolio/gp3_tn.png": {
 		"ft": 32768,
-		"iS": 113274,
+		"iS": 29498,
 		"oA": 0,
-		"oAP": "\/Portfolio\/gp3_tn.png",
+		"oAP": "/Portfolio/gp3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm1.png": {
+	"/Portfolio/hrm1.png": {
 		"ft": 32768,
 		"iS": 286071,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm1.png",
+		"oAP": "/Portfolio/hrm1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm1_tn.png": {
+	"/Portfolio/hrm1_tn.png": {
 		"ft": 32768,
-		"iS": 220005,
+		"iS": 91202,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm1_tn.png",
+		"oAP": "/Portfolio/hrm1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm2.png": {
+	"/Portfolio/hrm2.png": {
 		"ft": 32768,
 		"iS": 123586,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm2.png",
+		"oAP": "/Portfolio/hrm2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm2_tn.png": {
+	"/Portfolio/hrm2_tn.png": {
 		"ft": 32768,
-		"iS": 129439,
+		"iS": 56654,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm2_tn.png",
+		"oAP": "/Portfolio/hrm2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm3.png": {
+	"/Portfolio/hrm3.png": {
 		"ft": 32768,
 		"iS": 157052,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm3.png",
+		"oAP": "/Portfolio/hrm3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/hrm3_tn.png": {
+	"/Portfolio/hrm3_tn.png": {
 		"ft": 32768,
-		"iS": 114428,
+		"iS": 52246,
 		"oA": 0,
-		"oAP": "\/Portfolio\/hrm3_tn.png",
+		"oAP": "/Portfolio/hrm3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis1.png": {
+	"/Portfolio/oasis1.png": {
 		"ft": 32768,
 		"iS": 908476,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis1.png",
+		"oAP": "/Portfolio/oasis1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis1_tn.png": {
+	"/Portfolio/oasis1_tn.png": {
 		"ft": 32768,
-		"iS": 486362,
+		"iS": 288435,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis1_tn.png",
+		"oAP": "/Portfolio/oasis1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis2.png": {
+	"/Portfolio/oasis2.png": {
 		"ft": 32768,
 		"iS": 808205,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis2.png",
+		"oAP": "/Portfolio/oasis2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis2_tn.png": {
+	"/Portfolio/oasis2_tn.png": {
 		"ft": 32768,
-		"iS": 441162,
+		"iS": 266824,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis2_tn.png",
+		"oAP": "/Portfolio/oasis2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis3.png": {
+	"/Portfolio/oasis3.png": {
 		"ft": 32768,
 		"iS": 911425,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis3.png",
+		"oAP": "/Portfolio/oasis3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/oasis3_tn.png": {
+	"/Portfolio/oasis3_tn.png": {
 		"ft": 32768,
-		"iS": 474192,
+		"iS": 309389,
 		"oA": 0,
-		"oAP": "\/Portfolio\/oasis3_tn.png",
+		"oAP": "/Portfolio/oasis3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj1.png": {
+	"/Portfolio/proj1.png": {
 		"ft": 32768,
 		"iS": 48292,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj1.png",
+		"oAP": "/Portfolio/proj1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj1.pxm": {
+	"/Portfolio/proj1.pxm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/proj1.pxm",
+		"oAP": "/Portfolio/proj1.pxm",
 		"oF": 0
 		},
-	"\/Portfolio\/proj1_tn.png": {
+	"/Portfolio/proj1_tn.png": {
 		"ft": 32768,
-		"iS": 155270,
+		"iS": 20803,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj1_tn.png",
+		"oAP": "/Portfolio/proj1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj2.png": {
+	"/Portfolio/proj2.png": {
 		"ft": 32768,
 		"iS": 16318,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj2.png",
+		"oAP": "/Portfolio/proj2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj2.pxm": {
+	"/Portfolio/proj2.pxm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/proj2.pxm",
+		"oAP": "/Portfolio/proj2.pxm",
 		"oF": 0
 		},
-	"\/Portfolio\/proj2_tn.png": {
+	"/Portfolio/proj2_tn.png": {
 		"ft": 32768,
-		"iS": 64223,
+		"iS": 7587,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj2_tn.png",
+		"oAP": "/Portfolio/proj2_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj3.png": {
+	"/Portfolio/proj3.png": {
 		"ft": 32768,
 		"iS": 12346,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj3.png",
+		"oAP": "/Portfolio/proj3.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/proj3.pxm": {
+	"/Portfolio/proj3.pxm": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Portfolio\/proj3.pxm",
+		"oAP": "/Portfolio/proj3.pxm",
 		"oF": 0
 		},
-	"\/Portfolio\/proj3_tn.png": {
+	"/Portfolio/proj3_tn.png": {
 		"ft": 32768,
-		"iS": 38585,
+		"iS": 5062,
 		"oA": 0,
-		"oAP": "\/Portfolio\/proj3_tn.png",
+		"oAP": "/Portfolio/proj3_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Talent1.png": {
+	"/Portfolio/Talent1.png": {
 		"ft": 32768,
 		"iS": 1757165,
 		"oA": 0,
-		"oAP": "\/Portfolio\/Talent1.png",
+		"oAP": "/Portfolio/Talent1.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Talent1_tn.png": {
+	"/Portfolio/Talent1_tn.png": {
 		"ft": 32768,
 		"iS": 502480,
 		"oA": 0,
-		"oAP": "\/Portfolio\/Talent1_tn.png",
+		"oAP": "/Portfolio/Talent1_tn.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Talent2.png": {
+	"/Portfolio/Talent2.png": {
 		"ft": 32768,
 		"iS": 2174960,
 		"oA": 0,
-		"oAP": "\/Portfolio\/Talent2.png",
+		"oAP": "/Portfolio/Talent2.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Talent2_tn.png": {
+	"/Portfolio/Talent2_tn.png": {
 		"ft": 32768,
 		"iS": 781648,
 		"oA": 0,
-		"oAP": "\/Portfolio\/Talent2_tn.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"\/Portfolio\/Talent3.png": {
-		"ft": 32768,
-		"iS": 1849648,
-		"oA": 0,
-		"oAP": "\/Portfolio\/Talent3.png",
+		"oAP": "/Portfolio/Talent2_tn.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/Talent3_tn.png": {
+	"/Portfolio/Talent3.png": {
 		"ft": 32768,
-		"iS": 631222,
+		"iS": 1849648,
 		"oA": 0,
-		"oAP": "\/Portfolio\/Talent3_tn.png",
+		"oAP": "/Portfolio/Talent3.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
-	"\/redirect.txt": {
+	"/Portfolio/Talent3_tn.png": {
+		"ft": 32768,
+		"iS": 631222,
+		"oA": 0,
+		"oAP": "/Portfolio/Talent3_tn.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/redirect.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/redirect.txt",
+		"oAP": "/redirect.txt",
 		"oF": 0
 		},
-	"\/robots.txt": {
+	"/robots.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/robots.txt",
+		"oAP": "/robots.txt",
 		"oF": 0
 		},
-	"\/Sitemap.xml": {
+	"/Sitemap.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/Sitemap.xml",
+		"oAP": "/Sitemap.xml",
 		"oF": 0
 		}
 	},
@@ -2043,148 +2050,101 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-archer",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 542157952
+	"lastBuiltDate": 562042926.21589899
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoprefixerEnableIEGrid": 0,
+	"babel7PresetType": 1,
+	"babelAllowRCFiles": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
-	"babelConfigFileHandlingType": 0,
+	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
 	"babelPlugins": {
+		"arrow-functions": {
+			"active": 0
+			},
 		"async-generator-functions": {
 			"active": 0
 			},
 		"async-to-generator": {
 			"active": 0
 			},
-		"async-to-module-method": {
+		"block-scoped-functions": {
+			"active": 0
+			},
+		"block-scoping": {
 			"active": 0
 			},
 		"class-properties": {
 			"active": 0
 			},
+		"classes": {
+			"active": 0
+			},
+		"computed-properties": {
+			"active": 0
+			},
 		"decorators": {
 			"active": 0
 			},
-		"decorators-legacy": {
+		"destructuring": {
 			"active": 0
 			},
 		"do-expressions": {
 			"active": 0
 			},
-		"es2015-arrow-functions": {
+		"dotall-regex": {
 			"active": 0
 			},
-		"es2015-block-scoped-functions": {
-			"active": 0
-			},
-		"es2015-block-scoping": {
-			"active": 0
-			},
-		"es2015-classes": {
-			"active": 0
-			},
-		"es2015-computed-properties": {
-			"active": 0
-			},
-		"es2015-constants": {
-			"active": 0
-			},
-		"es2015-destructuring": {
-			"active": 0
-			},
-		"es2015-duplicate-keys": {
-			"active": 0
-			},
-		"es2015-for-of": {
-			"active": 0
-			},
-		"es2015-function-name": {
-			"active": 0
-			},
-		"es2015-literals": {
-			"active": 0
-			},
-		"es2015-modules-amd": {
-			"active": 0
-			},
-		"es2015-modules-commonjs": {
-			"active": 0
-			},
-		"es2015-modules-systemjs": {
-			"active": 0
-			},
-		"es2015-modules-umd": {
-			"active": 0
-			},
-		"es2015-object-super": {
-			"active": 0
-			},
-		"es2015-parameters": {
-			"active": 0
-			},
-		"es2015-shorthand-properties": {
-			"active": 0
-			},
-		"es2015-spread": {
-			"active": 0
-			},
-		"es2015-sticky-regex": {
-			"active": 0
-			},
-		"es2015-template-literals": {
-			"active": 0
-			},
-		"es2015-typeof-symbol": {
-			"active": 0
-			},
-		"es2015-unicode-regex": {
-			"active": 0
-			},
-		"es3-member-expression-literals": {
-			"active": 0
-			},
-		"es3-property-literals": {
-			"active": 0
-			},
-		"es5-property-mutators": {
-			"active": 0
-			},
-		"eval": {
+		"duplicate-keys": {
 			"active": 0
 			},
 		"exponentiation-operator": {
 			"active": 0
 			},
-		"export-extensions": {
+		"export-default-from": {
+			"active": 0
+			},
+		"export-namespace-from": {
 			"active": 0
 			},
 		"external-helpers": {
 			"active": 0
 			},
-		"flow-comments": {
+		"flow-strip-types": {
 			"active": 0
 			},
-		"flow-strip-types": {
+		"for-of": {
 			"active": 0
 			},
 		"function-bind": {
 			"active": 0
 			},
-		"inline-environment-variables": {
+		"function-name": {
+			"active": 0
+			},
+		"function-sent": {
+			"active": 0
+			},
+		"instanceof": {
 			"active": 0
 			},
 		"jscript": {
+			"active": 0
+			},
+		"literals": {
+			"active": 0
+			},
+		"logical-assignment-operators": {
 			"active": 0
 			},
 		"member-expression-literals": {
@@ -2196,7 +2156,28 @@
 		"minify-booleans": {
 			"active": 0
 			},
+		"modules-amd": {
+			"active": 0
+			},
+		"modules-commonjs": {
+			"active": 0
+			},
+		"modules-systemjs": {
+			"active": 0
+			},
+		"modules-umd": {
+			"active": 0
+			},
+		"new-target": {
+			"active": 0
+			},
 		"node-env-inline": {
+			"active": 0
+			},
+		"nullish-coalescing-operator": {
+			"active": 0
+			},
+		"numeric-separator": {
 			"active": 0
 			},
 		"object-assign": {
@@ -2208,7 +2189,25 @@
 		"object-set-prototype-of-to-assign": {
 			"active": 0
 			},
+		"object-super": {
+			"active": 0
+			},
+		"optional-catch-binding": {
+			"active": 0
+			},
+		"optional-chaining": {
+			"active": 0
+			},
+		"parameters": {
+			"active": 0
+			},
+		"pipeline-operator": {
+			"active": 0
+			},
 		"property-literals": {
+			"active": 0
+			},
+		"property-mutators": {
 			"active": 0
 			},
 		"proto-to-assign": {
@@ -2244,53 +2243,46 @@
 		"remove-debugger": {
 			"active": 0
 			},
+		"reserved-words": {
+			"active": 0
+			},
 		"runtime": {
+			"active": 0
+			},
+		"shorthand-properties": {
 			"active": 0
 			},
 		"simplify-comparison-operators": {
 			"active": 0
 			},
+		"spread": {
+			"active": 0
+			},
+		"sticky-regex": {
+			"active": 0
+			},
 		"strict-mode": {
 			"active": 0
 			},
-		"syntax-async-generators": {
+		"template-literals": {
 			"active": 0
 			},
-		"syntax-class-properties": {
+		"throw-expressions": {
 			"active": 0
 			},
-		"syntax-decorators": {
-			"active": 0
-			},
-		"syntax-do-expressions": {
-			"active": 0
-			},
-		"syntax-export-extensions": {
-			"active": 0
-			},
-		"syntax-flow": {
-			"active": 0
-			},
-		"syntax-function-bind": {
-			"active": 0
-			},
-		"syntax-function-sent": {
-			"active": 0
-			},
-		"syntax-jsx": {
-			"active": 0
-			},
-		"syntax-object-rest-spread": {
-			"active": 0
-			},
-		"undeclared-variables-check": {
+		"typeof-symbol": {
 			"active": 0
 			},
 		"undefined-to-void": {
 			"active": 0
+			},
+		"unicode-property-regex": {
+			"active": 0
+			},
+		"unicode-regex": {
+			"active": 0
 			}
 		},
-	"babelPresetType": 193,
 	"babelRetainLines": 0,
 	"bowerAbbreviatedPath": "bower_components",
 	"bowerAutoCreateInfoFile": 1,
@@ -2299,6 +2291,7 @@
 	"bowerSaveDevDependencies": 0,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
+	"browserslistString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"buildFolderActive": 0,
 	"buildFolderName": "build",
 	"cleanBuild": 1,
@@ -2656,6 +2649,10 @@
 			"active": 0,
 			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
+		"max-classes-per-file": {
+			"active": 0,
+			"optionString": "1"
+			},
 		"max-depth": {
 			"active": 0,
 			"optionString": "{'max': 4}"
@@ -2667,6 +2664,10 @@
 		"max-lines": {
 			"active": 0,
 			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-lines-per-function": {
+			"active": 0,
+			"optionString": "{'max': 50, 'skipBlankLines': true, 'skipComments': true, 'IIFEs': false}"
 			},
 		"max-nested-callbacks": {
 			"active": 0,
@@ -2712,6 +2713,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-async-promise-executor": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-await-in-loop": {
 			"active": 0,
 			"optionString": ""
@@ -2730,10 +2735,6 @@
 			},
 		"no-case-declarations": {
 			"active": 1,
-			"optionString": ""
-			},
-		"no-catch-shadow": {
-			"active": 0,
 			"optionString": ""
 			},
 		"no-class-assign": {
@@ -2932,9 +2933,13 @@
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
+		"no-misleading-character-class": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-mixed-operators": {
 			"active": 0,
-			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			"optionString": "{'groups': [['+', '-', '*', '/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
 			},
 		"no-mixed-requires": {
 			"active": 0,
@@ -3288,6 +3293,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-object-spread": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
@@ -3316,6 +3325,10 @@
 			"active": 0,
 			"optionString": "'always'"
 			},
+		"require-atomic-updates": {
+			"active": 0,
+			"optionString": ""
+			},
 		"require-await": {
 			"active": 0,
 			"optionString": ""
@@ -3323,6 +3336,10 @@
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false}}"
+			},
+		"require-unicode-regexp": {
+			"active": 0,
+			"optionString": ""
 			},
 		"require-yield": {
 			"active": 0,
@@ -3378,7 +3395,7 @@
 			},
 		"spaced-comment": {
 			"active": 0,
-			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			"optionString": "'always', {'line': {'markers': ['/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
 			},
 		"strict": {
 			"active": 0,
@@ -3438,7 +3455,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerAddress": "http://localhost:8888",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
@@ -3833,7 +3850,6 @@
 		"escapeHTMLCharacters": 0,
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
-		"outputStyle": 0,
 		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
@@ -3852,7 +3868,7 @@
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*-min.js",
-		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathRelativePath": "/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
@@ -3884,19 +3900,19 @@
 		"allowInsecureImports": 0,
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
-		"disableJavascript": 0,
+		"enableJavascript": 0,
 		"ieCompatibility": 1,
+		"mathStyle": 0,
 		"outputStyle": 0,
-		"relativeURLS": 0,
+		"rewriteURLStyle": 0,
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0,
 		"strictImports": 0,
-		"strictMath": 0,
 		"strictUnits": 0
 		},
 	"languageDefaultsMARKDOWN": {
@@ -3952,7 +3968,7 @@
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
@@ -3981,7 +3997,7 @@
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.css",
-		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathRelativePath": "../css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
@@ -4005,36 +4021,70 @@
 	"languageDefaultsTS": {
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathRelativePath": "/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
-		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
 		"moduleType": 0,
-		"noImplicitAny": 0,
-		"preserveConstEnums": 0,
 		"removeComments": 0,
-		"suppressImplicitAnyIndexErrors": 0,
 		"targetECMAVersion": 0
 		},
 	"languageDefaultsUserDefined": [
 		],
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
-	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
+	"tsAllowSyntheticDefaultImports": 0,
+	"tsAllowUnreachableCode": 0,
+	"tsAllowUnusedLabels": 0,
+	"tsAlwaysStrict": 0,
+	"tsDownlevelIteration": 0,
+	"tsEmitBOM": 0,
+	"tsEmitDecoratorMetadata": 0,
+	"tsESModuleInterop": 0,
+	"tsForceConsistentCasingInFileNames": 0,
+	"tsImportHelpers": 0,
+	"tsIsolatedModules": 0,
+	"tsJSXFactory": "React.createElement",
+	"tsKeyofStringsOnly": 0,
+	"tsNoEmitHelpers": 0,
+	"tsNoFallthroughCasesInSwitch": 0,
+	"tsNoImplicitAny": 0,
+	"tsNoImplicitReturns": 0,
+	"tsNoImplicitThis": 0,
+	"tsNoImplicitUseStrict": 0,
+	"tsNoLib": 0,
+	"tsNoResolve": 0,
+	"tsNoStrictGenericChecks": 0,
+	"tsNoUnusedLocals": 0,
+	"tsNoUnusedParameters": 0,
+	"tsPreserveConstEnums": 0,
+	"tsPreserveSymlinks": 0,
+	"tsResolveJsonModule": 0,
+	"tsSkipLibCheck": 0,
+	"tsStrictFunctionTypes": 0,
+	"tsStrictNullChecks": 0,
+	"tsStrictPropertyInitialization": 0,
+	"tsStripInternal": 0,
+	"tsSuppressExcessPropertyErrors": 0,
+	"tsSuppressImplicitAnyIndexErrors": 0,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
-		"ascii-only": {
+		"arguments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"bare-returns": {
+		"bare_returns": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4042,11 +4092,11 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"bracketize": {
+		"braces": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"cascade": {
+		"collapse_vars": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4070,6 +4120,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"directives": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"drop_console": {
 			"active": 0,
 			"flagValue": -1
@@ -4086,7 +4140,15 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"expression": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -4094,20 +4156,32 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"if_return": {
+		"html5_comments": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-level": {
+		"ie8": {
 			"active": 0,
-			"flagValue": 4
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
 			},
 		"indent-start": {
 			"active": 0,
 			"flagValue": 0
 			},
-		"inline-script": {
+		"indent_level": {
 			"active": 0,
+			"flagValue": 4
+			},
+		"inline": {
+			"active": 1,
+			"flagValue": 3
+			},
+		"inline_script": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"join_vars": {
@@ -4122,6 +4196,14 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"keep_infinity": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_quoted_props": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"loops": {
 			"active": 1,
 			"flagValue": -1
@@ -4130,12 +4212,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"max-line-len": {
+		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
 			},
 		"negate_iife": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"passes": {
+			"active": 1,
+			"flagValue": 1
+			},
+		"preserve_line": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"properties": {
@@ -4146,12 +4236,20 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"quote-keys": {
+		"quote_keys": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"screw-ie8": {
-			"active": 0,
+		"quote_style": {
+			"active": 1,
+			"flagValue": 0
+			},
+		"reduce_funcs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"reduce_vars": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -4162,23 +4260,51 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"sort": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"space-colon": {
+		"shebang": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"support-ie8": {
-			"active": 0,
+		"side_effects": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"switches": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"toplevel": {
 			"active": 0,
 			"flagValue": -1
 			},
+		"typeofs": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_comps": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_Function": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_undefined": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4190,9 +4316,17 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"webkit": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"width": {
 			"active": 1,
 			"flagValue": 80
+			},
+		"wrap_iife": {
+			"active": 0,
+			"flagValue": -1
 			}
 		},
 	"uglifyReservedNamesString": "$",

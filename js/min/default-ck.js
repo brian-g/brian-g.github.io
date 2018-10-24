@@ -1,1 +1,22 @@
-function loadLightBox(n,t){var i,e;n.data("album",t),e=n.find("figure"),i=t.clone(!1),i.css("display","none"),i.find("h4").text(t.parents(".thumbnail-album").children("h3").text()),n.find(".lightbox-content").append(i),e.length>0&&n.is(":visible")?(e.fadeOut("300ms",function(){e.remove()}),i.fadeIn("300ms",function(){})):e.remove()}function iterateOnAlbum(n,t){var i,e=n.data("album");"next"===t?(i=e.next(),0===i.length&&(i=e.parent().children(":first-child"))):(i=e.prev(),0===i.length&&(i=e.parent().children(":last"))),i.length>0&&loadLightBox(n,i)}!function($){var n=$(window),t=n.height();n.resize(function(){t=n.height()}),$.fn.parallax=function(i,e,o){function l(){var o=n.scrollTop();a.each(function(){var n=$(this),l=n.offset().top;l+r(n)<o||l>o+t||n.css("backgroundPosition",i+" "+(u-o)*e+"px")})}var a=$(this),r,u;if("undefined"!=typeof Modernizr&&Modernizr.touch)return a;a.each(function(){u=a.offset().top}),r=o?function(n){return n.outerHeight(!0)}:function(n){return n.height()},(arguments.length<1||null===i)&&(i="50%"),(arguments.length<2||null===e)&&(e=.1),(arguments.length<3||null===o)&&(o=!0),n.bind("scroll",l).resize(l),l()}}(jQuery),$(document).ready(function(){$("body").parallax("0",.02),$(".thumbnails img").on("click",function(){var n=$("#lightbox");loadLightBox(n,$(this).parent()),n.show(),$("#lightbox figure").show()}),$(".close, #lightbox").on("click",function(){$("#lightbox").fadeOut("fast")}),$(".next").on("click",function(n){n.stopPropagation(),iterateOnAlbum($("#lightbox"),"next")}),$(".previous").on("click",function(n){n.stopPropagation(),iterateOnAlbum($("#lightbox"),"prev")})});
+/*
+Plugin: jQuery Parallax
+Version 1.1.3
+Author: Ian Lunn
+Twitter: @IanLunn
+Author URL: http://www.ianlunn.co.uk/
+Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
+
+Dual licensed under the MIT and GPL licenses:
+http://www.opensource.org/licenses/mit-license.php
+http://www.gnu.org/licenses/gpl.html
+*/
+//@codekit-prepend "jquery.parallax-1.1.3.js";
+function loadLightBox(n,t){var i,e;n.data("album",t),e=n.find("figure"),(i=t.clone(!1)).css("display","none"),i.find("h4").text(t.parents(".thumbnail-album").children("h3").text()),n.find(".lightbox-content").append(i),0<e.length&&n.is(":visible")?(e.fadeOut("300ms",function(){e.remove()}),i.fadeIn("300ms",function(){})):e.remove()}function iterateOnAlbum(n,t){var i,e=n.data("album");"next"===t?0===(i=e.next()).length&&(i=e.parent().children(":first-child")):0===(i=e.prev()).length&&(i=e.parent().children(":last")),0<i.length&&loadLightBox(n,i)}!function(u){var c=u(window),h=c.height();c.resize(function(){h=c.height()}),u.fn.parallax=function(o,l,n){
+// function to be called whenever the window is scrolled or resized
+function t(){var e=c.scrollTop();i.each(function(){var n=u(this),t=n.offset().top,i;
+// Check if totally above or totally below viewport
+t+a(n)<e||e+h<t||n.css("backgroundPosition",o+" "+(r-e)*l+"px")})}var i=u(this),a,r;if("undefined"!=typeof Modernizr&&Modernizr.touch)return i;
+//get the starting position of each element to have parallax applied to it                
+i.each(function(){r=i.offset().top}),a=n?function(n){return n.outerHeight(!0)}:function(n){return n.height()},
+// setup defaults if arguments aren't specified
+(arguments.length<1||null===o)&&(o="50%"),(arguments.length<2||null===l)&&(l=.1),(arguments.length<3||null===n)&&(n=!0),c.bind("scroll",t).resize(t),t()}}(jQuery),$(document).ready(function(){$("body").parallax("0",.02),$(".thumbnails img").on("click",function(){var n=$("#lightbox");loadLightBox(n,$(this).parent()),n.show(),$("#lightbox figure").show()}),$(".close, #lightbox").on("click",function(){$("#lightbox").fadeOut("fast")}),$(".next").on("click",function(n){n.stopPropagation(),iterateOnAlbum($("#lightbox"),"next")}),$(".previous").on("click",function(n){n.stopPropagation(),iterateOnAlbum($("#lightbox"),"prev")})});

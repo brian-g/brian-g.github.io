@@ -1,1 +1,1 @@
-function ShowPopup(p){var e=document.getElementById("popup");e.innerHTML="<p>Click to close</p><a href='JavaScript:ClosePopup()'><img src="+p+" /></a>",e.style.display="block"}function ClosePopup(){document.getElementById("popup").style.display="none"}
+function ShowPopup(p){var e=document.getElementById("popup");e.innerHTML="<p>Click to close</p><a href='JavaScript:ClosePopup()'><img src="+p+" /></a>",e.style.display="block"}function ClosePopup(){var p;document.getElementById("popup").style.display="none"}

@@ -602,16 +602,16 @@ body nav li {
 }
 .large2x > figure:nth-child(odd) {
   float: left;
-  width: calc(40%);
+  width: calc(50% - 10px);
 }
 .large2x > figure:nth-child(even) {
   float: left;
-  width: calc(40%);
+  width: calc(50% - 10px);
 }
 @media screen and (orientation: landscape) and (max-width: 768px) {
   .large2x > figure:nth-child(odd),
   .large2x > figure:nth-child(even) {
-    width: calc(45%);
+    width: calc(50% - 5px);
   }
 }
 @media screen and (orientation: portrait) and (max-width: 667px) {
@@ -649,7 +649,7 @@ body nav li {
   font-family: 'fontello';
   background-color: #0992b9;
   border: 0;
-  color: #000000;
+  color: #ffffff;
   -webkit-transition: all 200ms ease-out 0;
   transition: all 200ms ease-out 0;
 }
@@ -686,7 +686,7 @@ body nav li {
   position: absolute;
   padding: 0;
   margin: 60px;
-  width: calc(100% - 120px);
+  width: calc(100% - 2 * 60px);
   background-color: rgba(255, 255, 255, 0.9);
   color: black;
 }
@@ -695,7 +695,7 @@ body nav li {
     margin: 0;
     margin-top: 30px;
     padding: 10px;
-    width: calc(100% - 20px);
+    width: calc(100% - 2 * 10px);
   }
 }
 .lightbox figure > img.thumbnail {
@@ -721,7 +721,7 @@ body nav li {
 @media (max-aspect-ratio: 6/5) {
   .lightbox figure > figcaption {
     display: block;
-    width: calc(90%);
+    width: calc(100% - 10px);
     margin-left: 10px;
     margin-right: 10px;
   }
