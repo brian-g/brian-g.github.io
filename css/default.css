@@ -167,9 +167,7 @@ figure {
 .animated {
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
-  -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
-  -webkit-perspective: 1000;
   -ms-perspective: 1000;
   perspective: 1000;
 }
@@ -219,21 +217,17 @@ figure {
 }
 @-webkit-keyframes slideInT {
   from {
-    -webkit-transform: translateY(-2000px);
     transform: translateY(-2000px);
   }
   to {
-    -webkit-transform: translateY(0px);
     transform: translateY(0px);
   }
 }
 @keyframes slideInT {
   from {
-    -webkit-transform: translateY(-2000px);
     transform: translateY(-2000px);
   }
   to {
-    -webkit-transform: translateY(0px);
     transform: translateY(0px);
   }
 }
@@ -278,8 +272,7 @@ figure {
 }
 a {
   text-decoration: none;
-  color: black;
-  -webkit-transition: all 167ms ease-out;
+  color: #04709a;
   transition: all 167ms ease-out;
 }
 @media print {
@@ -360,22 +353,15 @@ p {
 body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  -webkit-font-feature-settings: "liga" 1;
-     -moz-font-feature-settings: "liga" 1;
-          font-feature-settings: "liga" 1;
+  font-feature-settings: "kern" 1;
+  font-feature-settings: "liga" 1;
   font-family: 'FrutigerNeueW01-Regular', 'Helvetica', 'sans-serif';
   line-height: 30px;
   font-size: 15px;
-  -webkit-font-variant-ligatures: common-ligatures;
-     -moz-font-variant-ligatures: common-ligatures;
-          font-variant-ligatures: common-ligatures;
+  font-variant-ligatures: common-ligatures;
   -webkit-font-kerning: normal;
           font-kerning: normal;
   color: #666;
-  background: -webkit-gradient(linear, left top, right top, color-stop(25%, rgba(255, 255, 255, 0.1)), color-stop(50%, rgba(255, 255, 255, 0.8)), color-stop(60%, rgba(255, 255, 255, 0.9)), to(#ffffff)), url('../img/wave-xxx.jpg');
   background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.9) 60%, #ffffff 100%), url('../img/wave-xxx.jpg');
   background-size: cover 100%;
   background-position-y: 0;
@@ -401,7 +387,6 @@ body nav {
   font-size: 85%;
 }
 body nav li {
-  -webkit-transition: all 200ms ease-out 0;
   transition: all 200ms ease-out 0;
 }
 @media print {
@@ -515,7 +500,7 @@ body nav li {
 #resume > div .jobperiod {
   font-size: 85%;
   margin-top: -20px;
-  color: #aaa;
+  color: #aa03af;
 }
 @media print {
   #resume > div .jobperiod {
@@ -536,12 +521,10 @@ body nav li {
 #portfolio .thumbnails > figure > img {
   max-width: 100%;
   max-height: 600px;
-  -webkit-transition: all 300ms ease-out 0;
   transition: all 300ms ease-out 0;
   margin-right: 10px;
 }
 #portfolio .thumbnails > figure > img:hover {
-  -webkit-transform: scale(1.02);
   transform: scale(1.02);
 }
 @media print {
@@ -580,6 +563,7 @@ body nav li {
     width: 100%;
   }
 }
+/* https://codepen.io/anon/pen/mzgKEE */
 .large3x > figure:nth-child(1) {
   float: left;
   width: 65%;
@@ -650,12 +634,10 @@ body nav li {
   background-color: #0992b9;
   border: 0;
   color: #ffffff;
-  -webkit-transition: all 200ms ease-out 0;
   transition: all 200ms ease-out 0;
 }
 .shownav:hover {
   background-color: #0bb8ea;
-  -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 .shownav:before {
@@ -749,7 +731,6 @@ body nav li {
   height: 30px;
   line-height: 18px;
   border: 0;
-  -webkit-transition: all 300ms ease-in-out 0;
   transition: all 300ms ease-in-out 0;
   margin-left: 10px;
   font-family: 'fontello';
