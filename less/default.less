@@ -118,7 +118,7 @@ body {
 	font-size:@bodyFontSize;	
 	font-variant-ligatures:common-ligatures;
 	font-kerning:normal;
-	color:#666;
+	color:#3f3a34;
 
 	@media print {
 		line-height:(@printGrid / 3);
@@ -196,7 +196,7 @@ body {
 	> section, 
 	> header, 
 	> footer {
-		margin:@margin;
+		margin:@margin @margin 0 (@body-left);
 		
 		@media print {
 			margin:@printMargin;
@@ -231,7 +231,7 @@ body {
 //			margin-top:(2 * @margin);
 			
 			@media print {
-				margin-top:(2 * @printMargin);
+				margin-top:(@printMargin);
 			}
 			
 			@media screen and (max-width:@smallDeviceWidth) {
@@ -259,6 +259,10 @@ body {
 	@media screen and (max-width:@smallDeviceWidth) {
 		display: none;
 	}
+}
+
+section.intro {
+    margin-top:0;
 }
 
 #resume > aside {

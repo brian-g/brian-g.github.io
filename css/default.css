@@ -131,7 +131,6 @@ figure {
 .logo {
   font-family: 'Didot W01 Roman', 'Times New Roman';
   font-size: 56px;
-  margin-left: 120px;
   color: black;
   position: relative;
 }
@@ -148,11 +147,6 @@ figure {
 }
 .logo > .n {
   text-transform: lowercase;
-}
-.logo > .n > .family-name {
-  position: absolute;
-  left: -1px;
-  top: 40px;
 }
 .logo > .n > .family-name:before {
   content: '@';
@@ -361,7 +355,7 @@ body {
   font-variant-ligatures: common-ligatures;
   -webkit-font-kerning: normal;
           font-kerning: normal;
-  color: #666;
+  color: #3f3a34;
   background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.9) 60%, #ffffff 100%), url('../img/wave-xxx.jpg');
   background-size: cover 100%;
   background-position-y: 0;
@@ -397,7 +391,7 @@ body nav li {
 .content > section,
 .content > header,
 .content > footer {
-  margin: 60px;
+  margin: 60px 60px 0 180px;
 }
 @media print {
   .content > section,
@@ -436,7 +430,7 @@ body nav li {
 }
 @media print {
   .content > section:first-of-type {
-    margin-top: 1in;
+    margin-top: 0.5in;
   }
 }
 @media screen and (max-width: 667px) {
@@ -462,6 +456,9 @@ body nav li {
   .contactlinks {
     display: none;
   }
+}
+section.intro {
+  margin-top: 0;
 }
 #resume > aside {
   background-color: rgba(61, 197, 250, 0.15);
