@@ -63,7 +63,14 @@ h3 {
 	font-family: @bodyFontFamily;
 	font-size:( .35 * @headingFontSize );
 	text-transform:uppercase;
-	letter-spacing: -1px;
+    letter-spacing: -1px;
+    
+    @media print {
+		font-size:(.35 * @printHeadingFontSize);
+        line-height:(.35 * @printHeadingFontSize + @gutter);
+        letter-spacing: normal;
+	}
+
 }	
 
 
