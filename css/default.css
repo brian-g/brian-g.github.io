@@ -467,6 +467,11 @@ body nav li {
 section.intro {
   margin-top: 0;
 }
+@media print {
+  section.intro {
+    display: none;
+  }
+}
 #resume > aside {
   background-color: rgba(61, 197, 250, 0.15);
   padding: 0 30px;

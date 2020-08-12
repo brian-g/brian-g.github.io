@@ -270,6 +270,10 @@ body {
 
 section.intro {
     margin-top:0;
+
+    @media print {
+        display: none;
+    }
 }
 
 #resume > aside {
@@ -282,7 +286,7 @@ section.intro {
 	@media screen and (max-width:@smallDeviceWidth) and (orientation: portrait) {
 		float:none;
 		width: initial;
-		background-color: transparent;;
+		background-color: transparent;
 		margin-left: 0;
 		padding: 0;
 		
