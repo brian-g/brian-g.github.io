@@ -199,11 +199,14 @@ body {
 }
 
 .content {
-	
+    
+    margin:0 auto;
+    max-width: 1024px;
+    
 	> section, 
 	> header, 
 	> footer {
-		margin:@margin @margin 0 (@body-left);
+		margin:@margin @margin 0 @margin;
 		
 		@media print {
 			margin:@printMargin;
@@ -219,7 +222,7 @@ body {
 		
 		
 		clear:both;
-		margin-left:@body-left;		
+//		margin-left:@body-left;		
 		margin-top:@grid;
 		
 		@media print { 
@@ -348,9 +351,7 @@ section.intro {
 				margin-right:@gutter;
 								
 				&:hover {
-//					box-shadow:fade(black, 40%) 4px 4px;
 					.transform(scale(1.02));
-			
 				}
 								
 				&.fullres {
