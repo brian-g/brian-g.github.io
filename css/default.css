@@ -484,7 +484,7 @@ section.intro {
   margin-left: 30px;
   float: right;
   width: 20%;
-  font-size: 16px;
+  font-size: 0.8em;
 }
 @media screen and (max-width: 667px) and (orientation: portrait) {
   #resume > aside {
