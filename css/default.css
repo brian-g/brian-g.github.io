@@ -363,7 +363,7 @@ body {
   -webkit-font-kerning: normal;
           font-kerning: normal;
   color: #3f3a34;
-  background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.9) 60%, #ffffff 100%), url('../img/wave-xxx.jpg');
+  background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.9) 60%, #ffffff 100%), url('../img/wave-xxxXX.jpg');
   background-size: cover 100%;
   background-position-y: 0;
   background-attachment: fixed, fixed;
@@ -409,6 +409,7 @@ body nav li {
   .content > header,
   .content > footer {
     margin: 0.5in;
+    max-width: initial;
   }
 }
 @media screen and (max-width: 667px) {
@@ -419,6 +420,7 @@ body nav li {
   }
 }
 .content > section {
+  font-size: 20px;
   clear: both;
   margin-top: 60px;
 }
@@ -426,6 +428,7 @@ body nav li {
   .content > section {
     margin-left: 0.5in;
     margin-top: 0;
+    font-size: inherit;
   }
 }
 @media screen and (max-width: 667px) {
@@ -440,7 +443,7 @@ body nav li {
 }
 @media print {
   .content > section:first-of-type {
-    margin-top: 0.5in;
+    margin-top: 0;
   }
 }
 @media screen and (max-width: 667px) {
@@ -481,6 +484,7 @@ section.intro {
   margin-left: 30px;
   float: right;
   width: 20%;
+  font-size: 16px;
 }
 @media screen and (max-width: 667px) and (orientation: portrait) {
   #resume > aside {
@@ -678,7 +682,6 @@ section.intro {
 }
 .lightbox figure {
   position: absolute;
-  padding: 0;
   margin: 60px;
   width: calc(100% - 2 * 60px);
   background-color: rgba(255, 255, 255, 0.9);
@@ -696,28 +699,29 @@ section.intro {
   display: none;
 }
 .lightbox figure > img.fullres {
-  max-width: calc(90% - 240px);
   display: inline-block;
   max-height: 80%;
 }
 @media (max-aspect-ratio: 6/5) {
   .lightbox figure > img.fullres {
     display: block;
-    max-width: 100%;
+    max-width: 96%;
+    margin: 32px auto;
   }
 }
+.lightbox figure > img.shadow {
+  box-shadow: 0px 0px 24px 6px rgba(0, 0, 0, 0.2);
+}
 .lightbox figure > figcaption {
-  width: 240px;
   display: inline-block;
   vertical-align: top;
-  margin-left: 20px;
+  margin: 0;
+  background-color: white;
+  padding: 24px;
 }
 @media (max-aspect-ratio: 6/5) {
   .lightbox figure > figcaption {
     display: block;
-    width: calc(100% - 10px);
-    margin-left: 10px;
-    margin-right: 10px;
   }
 }
 .lightbox figure > figcaption > h4 {

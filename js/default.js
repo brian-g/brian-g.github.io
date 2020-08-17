@@ -24,7 +24,6 @@ function loadLightBox(lb, figure) {
 	} else {
 		oldFigure.remove();
 	}
-
 }
 
 function iterateOnAlbum(lb, dir) {
