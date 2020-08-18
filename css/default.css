@@ -151,12 +151,12 @@ figure {
 .logo > .n > .family-name:before {
   content: '@';
   font-size: 60%;
-  color: #aaa;
+  color: #999;
 }
 .logo > .n > .family-name:after {
   content: '.name';
   font-size: 55%;
-  color: #aaa;
+  color: #999;
 }
 .animated {
   -webkit-animation-fill-mode: both;
@@ -408,7 +408,7 @@ body nav li {
   .content > section,
   .content > header,
   .content > footer {
-    margin: 0.5in;
+    margin: 0.5in 0.5in 0 0.5in;
     max-width: initial;
   }
 }
@@ -480,11 +480,17 @@ section.intro {
 }
 #resume > aside {
   background-color: rgba(61, 197, 250, 0.15);
-  padding: 0 30px;
+  padding: 0 20px;
   margin-left: 30px;
   float: right;
   width: 20%;
   font-size: 0.8em;
+}
+@media print {
+  #resume > aside {
+    padding: 0 10px;
+    margin-left: 10px;
+  }
 }
 @media screen and (max-width: 667px) and (orientation: portrait) {
   #resume > aside {

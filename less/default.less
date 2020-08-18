@@ -209,7 +209,7 @@ body {
 		margin:@margin @margin 0 @margin;
 		
 		@media print {
-            margin:@printMargin;
+            margin:@printMargin @printMargin 0 @printMargin;
             max-width: initial;
 		}
 		
@@ -284,12 +284,17 @@ section.intro {
 
 #resume > aside {
 	background-color:fade(@accent0, 15%);
-	padding:0 (3 * @gutter);
+	padding:0 (2 * @gutter);
 	margin-left: (3 * @gutter);
 	float:right;
     width:20%;
     font-size: .8em;
-	
+    
+    @media print {
+        padding: 0 (@gutter);
+        margin-left: (@gutter);
+    }
+
 	@media screen and (max-width:@smallDeviceWidth) and (orientation: portrait) {
 		float:none;
 		width: initial;
@@ -329,6 +334,7 @@ section.intro {
 	
 
 }
+
 .portfolio-item {
 	display:block;
 	clear:both;
