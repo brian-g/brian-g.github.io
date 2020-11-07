@@ -264,6 +264,9 @@ figure {
   content: '\E804';
   color: #007bb6;
 }
+.social-icon {
+  margin-bottom: -4px;
+}
 a {
   text-decoration: none;
   color: #04709a;
