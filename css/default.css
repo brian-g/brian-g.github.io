@@ -154,24 +154,15 @@ figure {
   color: #999;
 }
 .logo > .n > .family-name:after {
-  content: '.name';
+  content: '.us';
   font-size: 55%;
   color: #999;
 }
 .animated {
-  -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   transform: translate3d(0, 0, 0);
   -ms-perspective: 1000;
   perspective: 1000;
-}
-@-webkit-keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1;
-  }
 }
 @keyframes fadeIn {
   0% {
@@ -182,18 +173,8 @@ figure {
   }
 }
 .fadeIn {
-  -webkit-animation-name: fadeIn;
   animation-name: fadeIn;
-  -webkit-animation-duration: 500ms;
   animation-duration: 500ms;
-}
-@-webkit-keyframes fadeOut {
-  from {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
 }
 @keyframes fadeOut {
   from {
@@ -204,18 +185,8 @@ figure {
   }
 }
 .fadeOut {
-  -webkit-animation-name: fadeOut;
   animation-name: fadeOut;
-  -webkit-animation-duration: 500ms;
   animation-duration: 500ms;
-}
-@-webkit-keyframes slideInT {
-  from {
-    transform: translateY(-2000px);
-  }
-  to {
-    transform: translateY(0px);
-  }
 }
 @keyframes slideInT {
   from {
@@ -226,9 +197,7 @@ figure {
   }
 }
 .slideInT {
-  -webkit-animation-name: slideInT;
   animation-name: slideInT;
-  -webkit-animation-duration: 500ms;
   animation-duration: 500ms;
 }
 @font-face {
@@ -363,8 +332,7 @@ body {
   line-height: 30px;
   font-size: 15px;
   font-variant-ligatures: common-ligatures;
-  -webkit-font-kerning: normal;
-          font-kerning: normal;
+  font-kerning: normal;
   color: #3f3a34;
   background: linear-gradient(to right, rgba(255, 255, 255, 0.1) 25%, rgba(255, 255, 255, 0.8) 50%, rgba(255, 255, 255, 0.9) 60%, #ffffff 100%), url('../img/wave-xxxXX.jpg');
   background-size: cover 100%;
@@ -504,12 +472,10 @@ section.intro {
     padding: 0;
   }
   #resume > aside ul {
-    -webkit-column-count: 2;
-       -moz-column-count: 2;
-            column-count: 2;
-    -webkit-column-fill: auto;
-       -moz-column-fill: auto;
-            column-fill: auto;
+    -moz-column-count: 2;
+         column-count: 2;
+    -moz-column-fill: auto;
+         column-fill: auto;
   }
   #resume > aside ul li {
     margin-left: 10px;
@@ -778,28 +744,22 @@ section.intro {
   content: '\e808';
 }
 .columns2 {
-  -webkit-column-count: 2;
   -moz-column-count: 2;
   column-count: 2;
-  -webkit-column-gap: 20px;
   -moz-column-gap: 20px;
   column-gap: 20px;
-  -webkit-column-fill: auto;
-     -moz-column-fill: auto;
-          column-fill: auto;
+  -moz-column-fill: auto;
+       column-fill: auto;
 }
 @media screen and (max-width: 768px) {
   .columns2 {
-    -webkit-column-count: 1;
     -moz-column-count: 1;
     column-count: 1;
   }
 }
 .columns3 {
-  -webkit-column-count: 3;
   -moz-column-count: 3;
   column-count: 3;
-  -webkit-column-gap: 20px;
   -moz-column-gap: 20px;
   column-gap: 20px;
 }
